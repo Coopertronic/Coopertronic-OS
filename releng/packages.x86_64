@@ -34,7 +34,6 @@ gnu-netcat
 gpart
 gpm
 gptfdisk
-grml-zsh-config
 grub
 hdparm
 hyperv
@@ -130,7 +129,7 @@ dolphin
 plasma
 firefox
 breeze
-breese-gtk
+breeze-gtk
 kde-gtk-config
 kdeplasma-addons
 plasma-desktop
