@@ -4,8 +4,8 @@ if [ "$EUID" -ne 0 ]; then
     exit
 fi
 ## Make default locations.
-STARTUP="~/ISO_Build"
-IMG_LOC="~/ISO_Dump"
+STARTUP="/home/matt/ISO_Build"
+IMG_LOC="/home/matt/ISO_Dump"
 INSTRUCTIONS="releng/"
 ISO_STORE="/home/matt/ISO_Store/Coopertronic_OS"
 LOCAL_MOUNT="/home/matt/WWW_Local/"
