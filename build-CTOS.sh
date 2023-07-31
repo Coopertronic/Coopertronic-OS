@@ -6,7 +6,7 @@ fi
 ## Make default locations.
 STARTUP="~/ISO_Build"
 IMG_LOC="~/ISO_Dump"
-INSTRUCTIONS="~/Coopertronic_OS/releng/"
+INSTRUCTIONS="~/Coopertronic-OS/releng/"
 ISO_STORE="/home/matt/ISO_Store/Coopertronic_OS"
 LOCAL_MOUNT="/home/matt/WWW_Local/"
 
