@@ -10,6 +10,8 @@ INSTRUCTIONS="~/Coopertronic-OS/releng/"
 ISO_STORE="/home/matt/ISO_Store/Coopertronic_OS"
 LOCAL_MOUNT="/home/matt/WWW_Local/"
 
+rm -rf ${STARTUP}
+
 ## Compile the ISO image using the ArchISO package.
 echo "Compiling the ISO image. Please wait …"
 mkarchiso -v -w ${STARTUP} -o ${IMG_LOC} ${INSTRUCTIONS}
