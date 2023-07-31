@@ -123,6 +123,8 @@ xl2tpd
 xorg-server
 xorg-xrandr
 zsh
+
+# Added Packages
 dolphin
 plasma
 firefox

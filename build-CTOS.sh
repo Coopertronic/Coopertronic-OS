@@ -10,6 +10,7 @@ INSTRUCTIONS="releng/"
 ISO_STORE="/home/matt/ISO_Store/Coopertronic_OS"
 LOCAL_MOUNT="/home/matt/WWW_Local/"
 
+echo "Clearing old build folder."
 rm -rf ${STARTUP}
 
 ## Compile the ISO image using the ArchISO package.
