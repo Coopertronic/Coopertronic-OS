@@ -35,7 +35,8 @@ else
         echo "No file to copy"
         exit 1
     elif [ -d "${NEW_ISO}" ]; then
-        echo "The most recent entry is a directory"
+        echo "The newest entry is a directory."
+        echo "Please examine your build instructions."
         exit 1
     else
         echo "Copying ${NEW_ISO}"
