@@ -14,8 +14,13 @@ echo "Clearing old build folder."
 rm -rf ${STARTUP}
 
 ## Compile the ISO image using the ArchISO package.
-echo "Compiling the ISO image. Please wait …"
-mkarchiso -v -w ${STARTUP} -o ${IMG_LOC} ${INSTRUCTIONS}
+if !( mkarchiso -v -w ${STARTUP} -o ${IMG_LOC} ${INSTRUCTIONS} ); then
+    echo "Cannot complete the compolation of the ISO."
+    echo "Please view the errors."
+    exit 1
+else
+    echo "Compiling the ISO image. Please wait …"
+fi
 
 ## Connect to the remote folder via SSHFS and copy the new ISO to it.
 echo "Connecting to network drive. Please wait …"
@@ -24,7 +29,6 @@ if !( sshfs matt@coopertronic.ddns.net:${ISO_STORE} ${LOCAL_MOUNT} ); then
     echo "Mounting failed!!"
     echo "Please check network connections."
     echo "Unable to copy image to host."
-    echo "Please find the ISO image in the local ISO_Dump folder."
     exit 1
 else
     echo "Attempting to Copying the new ISO to the remote folder."
@@ -44,6 +48,7 @@ else
     else
         echo "Copying ${NEW_ISO}"
         cp -p "${NEW_ISO}" "${REMOTE_DIR}"
+        echo "Please find the ISO image in the local ISO_Dump folder."
     fi
     exit 0
 fi
