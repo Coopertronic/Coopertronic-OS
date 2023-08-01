@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../pkgBuilds"
+		},
+		{
+			"path": "../ctos-calamares-settings"
 		}
 	],
 	"settings": {}
