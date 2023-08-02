@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "../ctos-side-repo"
+		},
+		{
+			"path": "../git-helper"
 		}
 	],
 	"settings": {}
