@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../ctos-calamares-settings"
+		},
+		{
+			"path": "../ctos-side-repo"
 		}
 	],
 	"settings": {}
