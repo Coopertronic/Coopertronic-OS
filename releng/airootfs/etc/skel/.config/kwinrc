@@ -6,8 +6,36 @@ Id_1=59bb5adf-e72f-4c30-a65d-9b3222608f26
 Number=1
 Rows=1
 
+[Effect-blur]
+BlurStrength=4
+
+[Effect-kwin4_effect_energize_b]
+Color=57,116,202
+
+[Effect-windowview]
+LayoutMode=0
+
+[Plugins]
+diminactiveEnabled=true
+kwin4_effect_animationsSuiteEnabled=true
+kwin4_effect_energize_bEnabled=true
+kwin4_effect_eyeonscreenEnabled=true
+kwin4_effect_scaleEnabled=false
+kwin4_effect_squashEnabled=false
+kwin4_effect_translucencyEnabled=true
+kwin4_effect_windowapertureEnabled=false
+magiclampEnabled=true
+slidebackEnabled=true
+wobblywindowsEnabled=true
+
 [Tiling]
 padding=4
 
+[Tiling][2e0b1bcb-451e-58cf-a2ab-3a9326c9372a]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][9350f969-92d0-5658-bb27-639b07d90acc]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][ba9b3626-36fa-5d32-af42-77ad80084068]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}

@@ -6,7 +6,9 @@ wheel:Vertical;NoModifier=org.kde.switchdesktop
 RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][1]
+ItemGeometries-1280x720=
 ItemGeometries-1280x800=
+ItemGeometries-1920x1080=
 ItemGeometriesHorizontal=
 activityId=45f79697-c833-432d-82e3-91122b90a312
 formfactor=0
@@ -21,7 +23,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][1][General]
-positions={"1280x800":["1"\\,"11"\\,"desktop:/WWW_Local"\\,"0"\\,"0"\\,"desktop:/Empty File"\\,"0"\\,"1"]}
+positions={"1280x800":["1"\\,"11"\\,"desktop:/WWW_Local"\\,"0"\\,"0"\\,"desktop:/Empty File"\\,"0"\\,"1"]\\,"1280x720":[]\\,"1920x1080":[]\\,"1024x768":[""]}
 sortMode=-1
 
 [Containments][1][Wallpaper][org.kde.image][General]
@@ -89,6 +91,23 @@ SystrayContainmentId=8
 [Containments][2][General]
 AppletOrder=24;4;5;6;7;18;19
 
+[Containments][25]
+activityId=45f79697-c833-432d-82e3-91122b90a312
+formfactor=0
+immutability=1
+lastScreen=1
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=org.kde.image
+
+[Containments][25][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][25][Wallpaper][org.kde.image][General]
+Image=/usr/share/wallpapers/Red_Dragon/
+SlidePaths=/usr/share/wallpapers/
+
 [Containments][8]
 activityId=
 formfactor=2
@@ -155,4 +174,4 @@ knownItems=org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.k
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/WWW_Local,0,45f79697-c833-432d-82e3-91122b90a312,desktop:/Empty File,0,45f79697-c833-432d-82e3-91122b90a312
+screenMapping=desktop:/Empty File,0,45f79697-c833-432d-82e3-91122b90a312,desktop:/WWW_Local,0,45f79697-c833-432d-82e3-91122b90a312
