@@ -18,11 +18,11 @@ LayoutMode=0
 [Plugins]
 diminactiveEnabled=true
 kwin4_effect_animationsSuiteEnabled=true
-kwin4_effect_energize_bEnabled=true
 kwin4_effect_eyeonscreenEnabled=true
 kwin4_effect_scaleEnabled=false
 kwin4_effect_squashEnabled=false
 kwin4_effect_translucencyEnabled=true
+kwin4_effect_tv_glitchEnabled=true
 kwin4_effect_windowapertureEnabled=false
 magiclampEnabled=true
 slidebackEnabled=true
