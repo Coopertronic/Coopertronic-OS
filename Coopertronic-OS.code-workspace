@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "../neon-knights-kde-pasma"
+		},
+		{
+			"path": "../ctos-kde-splash"
 		}
 	],
 	"settings": {}
