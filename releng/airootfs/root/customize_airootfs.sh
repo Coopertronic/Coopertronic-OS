@@ -13,7 +13,8 @@ passwd -d root
 
 #sed -i 's/#\(PermitRootLogin \).\+/\1yes/' /etc/sshd_config
 sed -i "s/#Server/Server/g" /etc/pacman.d/mirrorlist
-loadkeys uk
+localectl set-keymap --no-convert uk
+locale-gen
 systemctl enable sddm
 systemctl set-default graphical.target
 systemctl enable NetworkManager
