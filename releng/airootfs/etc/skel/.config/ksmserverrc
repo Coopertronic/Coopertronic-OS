@@ -1,2 +1,32 @@
 [$Version]
 update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[General]
+loginMode=emptySession
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1014419e19f145000169103408300000016630004
+clientId2=1014419e19f145000169103408300000016630006
+clientId3=1014419e19f145000169103419900000016630008
+clientId4=1014419e19f145000169103420900000016630009
+count=4
+discardCommand4[$e]=rm,$HOME/.config/session/systemsettings_1014419e19f145000169103420900000016630009_1691034236_820274
+program1=/usr/lib/DiscoverNotifier
+program2=pulseaudio
+program3=/usr/lib/drkonqi
+program4=/usr/bin/systemsettings
+restartCommand1=/usr/lib/DiscoverNotifier,-session,1014419e19f145000169103408300000016630004_1691034236_820249
+restartCommand2=
+restartCommand3=/usr/lib/drkonqi,-session,1014419e19f145000169103419900000016630008_1691034236_820380
+restartCommand4=/usr/bin/systemsettings,-session,1014419e19f145000169103420900000016630009_1691034236_820274
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+userId1=coopertronic
+userId2=coopertronic
+userId3=coopertronic
+userId4=coopertronic

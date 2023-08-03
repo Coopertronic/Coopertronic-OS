@@ -1,13 +1,10 @@
-[KFileDialog Settings]
-detailViewIconSize=16
+[Number]
+NumberOfWindows=1
 
-[MainWindow]
-1280x800 screen: Height=680
-1280x800 screen: Width=1020
+[WindowProperties1]
 1280x800 screen: Window-Maximized=true
-1280x800 screen: XPosition=213
-1280x800 screen: YPosition=76
+ClassName=SettingsBase
 MenuBar=Disabled
+ObjectName=MainWindow#1
 State=AAAA/wAAAAD9AAAAAAAABQAAAALZAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Virtual-1=Virtual-1

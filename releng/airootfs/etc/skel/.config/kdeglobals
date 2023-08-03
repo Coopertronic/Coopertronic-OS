@@ -108,13 +108,11 @@ ForegroundPositive=39,174,96
 ForegroundVisited=121,141,117
 
 [General]
-ColorScheme=NeonKnightsGreen
-ColorSchemeHash=2ef8a9f7238e072ca91b0eb590f49ded650c76bd
-
-[Icons]
-Theme=Neon-Knights-Green-Folders
+ColorSchemeHash=3774f3974fe58e572e9b42bff6a71bfe3af62240
 
 [KDE]
+LookAndFeelPackage=Neon-Knights-Green
+SingleClick=false
 widgetStyle=Fusion
 
 [KFileDialog Settings]

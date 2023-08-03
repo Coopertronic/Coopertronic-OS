@@ -17,7 +17,7 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][1][General]
-positions={"1280x800":["1"\\,"11"\\,"desktop:/WWW_Local"\\,"0"\\,"0"]}
+positions={"1280x800":["1"\\,"11"\\,"desktop:/WWW_Local"\\,"0"\\,"0"\\,"desktop:/Empty File"\\,"0"\\,"1"]}
 sortMode=-1
 
 [Containments][2]
@@ -37,22 +37,22 @@ plugin=org.kde.plasma.digitalclock
 immutability=1
 plugin=org.kde.plasma.showdesktop
 
-[Containments][2][Applets][3]
+[Containments][2][Applets][24]
 immutability=1
-plugin=org.kde.plasma.kickoff
+plugin=org.kde.plasma.kickerdash
 
-[Containments][2][Applets][3][Configuration]
+[Containments][2][Applets][24][Configuration]
 PreloadWeight=100
 popupHeight=514
-popupWidth=651
+popupWidth=653
 
-[Containments][2][Applets][3][Configuration][General]
+[Containments][2][Applets][24][Configuration][General]
 favoritesPortedToKAstats=true
 
-[Containments][2][Applets][3][Configuration][Shortcuts]
+[Containments][2][Applets][24][Configuration][Shortcuts]
 global=Alt+F1
 
-[Containments][2][Applets][3][Shortcuts]
+[Containments][2][Applets][24][Shortcuts]
 global=Alt+F1
 
 [Containments][2][Applets][4]
@@ -62,6 +62,9 @@ plugin=org.kde.plasma.pager
 [Containments][2][Applets][5]
 immutability=1
 plugin=org.kde.plasma.icontasks
+
+[Containments][2][Applets][5][Configuration][General]
+launchers=applications:systemsettings.desktop,applications:org.kde.discover.desktop,preferred://filemanager,preferred://browser,applications:org.kde.konsole.desktop
 
 [Containments][2][Applets][6]
 immutability=1
@@ -76,7 +79,7 @@ PreloadWeight=55
 SystrayContainmentId=8
 
 [Containments][2][General]
-AppletOrder=3;4;5;6;7;18;19
+AppletOrder=24;4;5;6;7;18;19
 
 [Containments][8]
 activityId=
@@ -144,4 +147,4 @@ knownItems=org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.k
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/WWW_Local,0,45f79697-c833-432d-82e3-91122b90a312
+screenMapping=desktop:/Empty File,0,45f79697-c833-432d-82e3-91122b90a312,desktop:/WWW_Local,0,45f79697-c833-432d-82e3-91122b90a312
