@@ -20,6 +20,9 @@
 		},
 		{
 			"path": "../ctos-kde-splash"
+		},
+		{
+			"path": "../ctos-wallpapers"
 		}
 	],
 	"settings": {}

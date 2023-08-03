@@ -16,8 +16,12 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
+[Containments][1][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
 [Containments][1][General]
-positions={"1280x800":["1"\\,"11"\\,"desktop:/WWW_Local"\\,"0"\\,"0"\\,"desktop:/Empty File"\\,"0"\\,"1"]}
+positions={"1280x800":["1"\\,"11"\\,"desktop:/Empty File"\\,"0"\\,"1"\\,"desktop:/WWW_Local"\\,"0"\\,"0"]}
 sortMode=-1
 
 [Containments][2]
@@ -147,4 +151,4 @@ knownItems=org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.k
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/Empty File,0,45f79697-c833-432d-82e3-91122b90a312,desktop:/WWW_Local,0,45f79697-c833-432d-82e3-91122b90a312
+screenMapping=desktop:/WWW_Local,0,45f79697-c833-432d-82e3-91122b90a312,desktop:/Empty File,0,45f79697-c833-432d-82e3-91122b90a312
