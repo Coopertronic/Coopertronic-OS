@@ -21,8 +21,12 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][1][General]
-positions={"1280x800":["1"\\,"11"\\,"desktop:/Empty File"\\,"0"\\,"1"\\,"desktop:/WWW_Local"\\,"0"\\,"0"]}
+positions={"1280x800":["1"\\,"11"\\,"desktop:/WWW_Local"\\,"0"\\,"0"\\,"desktop:/Empty File"\\,"0"\\,"1"]}
 sortMode=-1
+
+[Containments][1][Wallpaper][org.kde.image][General]
+Image=/usr/share/wallpapers/Green_Dragon/
+SlidePaths=/usr/share/wallpapers/
 
 [Containments][2]
 activityId=

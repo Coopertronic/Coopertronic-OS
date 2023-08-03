@@ -2,7 +2,7 @@
 # shellcheck disable=SC2034
 
 iso_name="coopertronic-os"
-iso_label="coopertronic-os_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
+iso_label="coopertronic-os_v0.018_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
 iso_publisher="Coopertronic OS <https://coopertronic.co.uk>"
 iso_application="Coopertronic OS Live ISO"
 iso_version="$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y.%m.%d)"
