@@ -85,13 +85,15 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][2][Applets][7][Configuration]
-PreloadWeight=60
+PreloadWeight=85
 SystrayContainmentId=8
 
 [Containments][2][General]
 AppletOrder=24;4;5;6;7;18;19
 
 [Containments][25]
+ItemGeometries-1024x768=
+ItemGeometriesHorizontal=
 activityId=45f79697-c833-432d-82e3-91122b90a312
 formfactor=0
 immutability=1
@@ -104,9 +106,66 @@ wallpaperplugin=org.kde.image
 DialogHeight=540
 DialogWidth=720
 
+[Containments][25][General]
+ToolBoxButtonState=topcenter
+ToolBoxButtonX=174
+ToolBoxButtonY=36
+
 [Containments][25][Wallpaper][org.kde.image][General]
 Image=/usr/share/wallpapers/Red_Dragon/
 SlidePaths=/usr/share/wallpapers/
+
+[Containments][27]
+activityId=
+formfactor=2
+immutability=1
+lastScreen=1
+location=3
+plugin=org.kde.panel
+wallpaperplugin=org.kde.image
+
+[Containments][27][Applets][28]
+immutability=1
+plugin=org.kde.plasma.kickoff
+
+[Containments][27][Applets][28][Configuration][General]
+favoritesPortedToKAstats=true
+
+[Containments][27][Applets][29]
+immutability=1
+plugin=org.kde.plasma.icontasks
+
+[Containments][27][Applets][30]
+immutability=1
+plugin=org.kde.plasma.kickoff
+
+[Containments][27][Applets][30][Configuration]
+PreloadWeight=100
+popupHeight=513
+popupWidth=653
+
+[Containments][27][Applets][30][Configuration][General]
+favoritesPortedToKAstats=true
+
+[Containments][27][Applets][31]
+immutability=1
+plugin=org.kde.plasma.icontasks
+
+[Containments][27][Applets][31][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][27][Applets][31][Configuration][General]
+iconSpacing=0
+launchers=applications:systemsettings.desktop,preferred://filemanager,applications:org.kde.discover.desktop,preferred://browser
+reverseMode=true
+
+[Containments][27][ConfigDialog]
+DialogHeight=84
+DialogWidth=1024
+
+[Containments][27][General]
+AppletOrder=31;30
 
 [Containments][8]
 activityId=
@@ -152,9 +211,10 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][8][Applets][17][Configuration]
-PreloadWeight=55
+PreloadWeight=80
 
 [Containments][8][Applets][17][Configuration][General]
+currentTab=streams
 migrated=true
 
 [Containments][8][Applets][20]
@@ -186,4 +246,4 @@ knownItems=org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.k
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/Empty File,0,45f79697-c833-432d-82e3-91122b90a312,desktop:/WWW_Local,0,45f79697-c833-432d-82e3-91122b90a312
+screenMapping=desktop:/WWW_Local,0,45f79697-c833-432d-82e3-91122b90a312,desktop:/Empty File,0,45f79697-c833-432d-82e3-91122b90a312
