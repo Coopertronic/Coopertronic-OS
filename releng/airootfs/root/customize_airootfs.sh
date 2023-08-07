@@ -14,11 +14,12 @@ passwd -d root
 #sed -i 's/#\(PermitRootLogin \).\+/\1yes/' /etc/sshd_config
 sed -i "s/#Server/Server/g" /etc/pacman.d/mirrorlist
 #localectl set-keymap --no-convert uk
-locale-gen
+#locale-gen
 systemctl enable sddm
 systemctl set-default graphical.target
 systemctl enable NetworkManager
 systemctl enable bluetooth
 #systemctl enable org.cups.cupsd
 systemctl enable sshd
+systemctl enable org.cups.cupsd
 
