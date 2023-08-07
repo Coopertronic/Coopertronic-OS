@@ -150,7 +150,6 @@ cups
 cups-filters
 cups-pdf
 cups-pk-helper
-lib32-libcups
 libcups
 python-pycups
 bluez
