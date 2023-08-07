@@ -19,7 +19,6 @@ systemctl enable sddm
 systemctl set-default graphical.target
 systemctl enable NetworkManager
 systemctl enable bluetooth
-#systemctl enable org.cups.cupsd
+systemctl enable cups
 systemctl enable sshd
-systemctl enable org.cups.cupsd
 

@@ -147,6 +147,12 @@ xf86-video-vmware
 xf86-video-vesa
 xorg
 cups
+cups-filters
+cups-pdf
+cups-pk-helper
+lib32-libcups
+libcups
+python-pycups
 bluez
 bluez-utils
 sddm
@@ -170,5 +176,28 @@ kwidgetsaddons
 kwin
 xdg-user-dirs
 xdg-user-dirs-gtk
+
+## For calamares
+kconfig
+kcoreaddons
+kiconthemes
+ki18n
+kio
+solid
+yaml-cpp
+kpmcore>=4.2.0
+mkinitcpio-openswap
+boost-libs
+ckbcomp
+hwinfo
+qt5-svg
+polkit-qt5
+gtk-update-icon-cache
+plasma-framework
+qt5-xmlpatterns
+libpwquality
+icu
+
+
 
 
