@@ -14,7 +14,7 @@ mtime=1690900926
 
 [delete_cursor_old_default_size.upd]
 done=DeleteCursorOldDefaultSize
-mtime=1690901601
+mtime=1691429547
 
 [disable_kmix.upd]
 done=PlasmaVolume_DisableKMixAutostart
@@ -50,19 +50,19 @@ mtime=1690902802
 
 [icons_remove_effects.upd]
 done=IconsRemoveEffects
-mtime=1690901601
+mtime=1691429547
 
 [kcm_rename_plasma_desktop.upd]
 done=5.24PlasmaDesktopKCMRename
-mtime=1690903177
+mtime=1691182649
 
 [kcminputrc_fix_botched_5_21_0.upd]
 done=kcminputrc_fix_botched_5_21_0_pre,kcminputrc_fix_botched_5_21_0
-mtime=1690903177
+mtime=1691182649
 
 [kcminputrc_repeat.upd]
 done=kcminputrc_migrate_key_repeat
-mtime=1690903177
+mtime=1691182649
 
 [konsole.upd]
 done=konsole_globalaccel,add-hamburgermenu-to-toolbar
@@ -70,11 +70,11 @@ mtime=1688487922
 
 [krunnerglobalshortcuts2.upd]
 done=5.22KRunnerGlobalShortcuts
-mtime=1690901601
+mtime=1691429547
 
 [krunnerhistory.upd]
 done=5.21KRunnerHistory
-mtime=1690901601
+mtime=1691429547
 
 [kscreenlocker.upd]
 done=0.1-autolock
@@ -82,7 +82,7 @@ mtime=1690900781
 
 [ksmserver_update_loginMode_value.upd]
 done=ksmserver_update_loginMode_value_default_enum
-mtime=1690903177
+mtime=1691182649
 
 [kwin.upd]
 done=replace-scalein-with-scale,port-minimizeanimation-effect-to-js,port-scale-effect-to-js,port-dimscreen-effect-to-js,auto-bordersize,animation-speed,desktop-grid-click-behavior,no-swap-encourage,make-translucency-effect-disabled-by-default,remove-flip-switch-effect,remove-cover-switch-effect,remove-cubeslide-effect,remove-xrender-backend,enable-scale-effect-by-default,overview-group-plugin-id,animation-speed-cleanup,replace-cascaded-zerocornered
@@ -94,16 +94,16 @@ mtime=1690901005
 
 [kxkb.upd]
 done=remove-empty-lists,add-back-resetoptions
-mtime=1690903177
+mtime=1691182649
 
 [kxkb_variants.upd]
 done=split-variants
-mtime=1690903177
+mtime=1691182649
 
 [plasmashell-5.27-use-panel-thickness-in-default-group.upd]
 done=plasmashell-5.27-use-panel-thickness-in-default-group
-mtime=1690901601
+mtime=1691429547
 
 [style_widgetstyle_default_breeze.upd]
 done=StyleWidgetStyleDefaultBreeze
-mtime=1690901601
+mtime=1691429547

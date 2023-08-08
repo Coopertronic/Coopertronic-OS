@@ -85,7 +85,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][2][Applets][7][Configuration]
-PreloadWeight=85
+PreloadWeight=90
 SystrayContainmentId=8
 
 [Containments][2][General]
@@ -123,17 +123,6 @@ lastScreen=1
 location=3
 plugin=org.kde.panel
 wallpaperplugin=org.kde.image
-
-[Containments][27][Applets][28]
-immutability=1
-plugin=org.kde.plasma.kickoff
-
-[Containments][27][Applets][28][Configuration][General]
-favoritesPortedToKAstats=true
-
-[Containments][27][Applets][29]
-immutability=1
-plugin=org.kde.plasma.icontasks
 
 [Containments][27][Applets][30]
 immutability=1
@@ -211,10 +200,9 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][8][Applets][17][Configuration]
-PreloadWeight=80
+PreloadWeight=85
 
 [Containments][8][Applets][17][Configuration][General]
-currentTab=streams
 migrated=true
 
 [Containments][8][Applets][20]
@@ -234,7 +222,7 @@ immutability=1
 plugin=org.kde.plasma.mediacontroller
 
 [Containments][8][Applets][26][Configuration]
-PreloadWeight=42
+PreloadWeight=34
 
 [Containments][8][Applets][9]
 immutability=1
@@ -246,4 +234,4 @@ knownItems=org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.k
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/WWW_Local,0,45f79697-c833-432d-82e3-91122b90a312,desktop:/Empty File,0,45f79697-c833-432d-82e3-91122b90a312
+screenMapping=desktop:/Empty File,0,45f79697-c833-432d-82e3-91122b90a312,desktop:/WWW_Local,0,45f79697-c833-432d-82e3-91122b90a312
