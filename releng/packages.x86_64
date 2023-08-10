@@ -165,7 +165,7 @@ leafpad
 chntpw
 plymouth
 calamares
-ctos-calamares-settings
+#ctos-calamares-settings
 git-helper
 neon-knights-kde-pasma
 ctos-kde-splash
