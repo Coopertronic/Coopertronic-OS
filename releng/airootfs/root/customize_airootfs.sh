@@ -15,6 +15,7 @@ passwd -d root
 sed -i "s/#Server/Server/g" /etc/pacman.d/mirrorlist
 #localectl set-keymap --no-convert uk
 #locale-gen
+pacman -S ctos-calamares-settings --overwrite '*' --noconfirm
 systemctl enable sddm
 systemctl set-default graphical.target
 systemctl enable NetworkManager
