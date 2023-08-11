@@ -16,6 +16,8 @@ sed -i "s/#Server/Server/g" /etc/pacman.d/mirrorlist
 #localectl set-keymap --no-convert uk
 #locale-gen
 pacman-key --init
+pacman-key --recv-keys 515A202B640F3678
+pacman-key --lsign-key 515A202B640F3678
 pacman -S ctos-calamares-settings --overwrite '*' --noconfirm
 systemctl enable sddm
 systemctl set-default graphical.target
