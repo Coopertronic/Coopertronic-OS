@@ -1,0 +1,168 @@
+22:07:48 [6]: Calamares::Settings::Settings(const QString&, bool)
+    Using Calamares settings file at "/usr/share/calamares/settings.conf" 
+22:07:48 [6]: void Logger::setupLogfile()
+    Using log file: "/home/coopertronic/.cache/calamares/session.log" 
+22:07:48 [6]: void CalamaresApplication::init()
+    Calamares version: -1 
+    .. languages: "ar, as, ast, az, az_AZ, be, bg, bn, ca, ca@valencia, cs_CZ, da, de, el, en, en_GB, eo, es, es_MX, et, eu, fa, fi_FI, fr, fur, gl, he, hi, hr, hu, id, is, it_IT, ja, ko, lt, ml, mr, nb, nl, oc, pl, pt_BR, pt_PT, ro, ru, si, sk, sl, sq, sr, sr@latin, sv, tg, th, tr_TR, uk, vi, zh_CN, zh_TW" 
+22:07:48 [6]: bool CalamaresUtils::initQmlModulesDir()
+    Using Calamares QML directory "/usr/share/calamares/qml" 
+22:07:48 [6]: Calamares::Branding::Branding(const QString&, QObject*)
+    Using Calamares branding file at "/usr/share/calamares/branding/default/branding.desc" 
+22:07:48 [6]: Calamares::Branding::Branding(const QString&, QObject*)
+    Loaded branding component "default" 
+    .. Loaded QRC translation "tz_" "en_GB" 
+    .. Loaded QRC translation "calamares_" "en_GB" 
+    .. STARTUP: initSettings, initQmlPath, initBranding done 
+    .. STARTUP: initModuleManager: module init started 
+22:07:48 [6]: void Calamares::ModuleManager::doInit()
+    Found 61 modules 
+22:07:48 [6]: void CalamaresApplication::initView()
+    STARTUP: initModuleManager: all modules init done 
+22:07:48 [6]: void CalamaresApplication::initView()
+    STARTUP: initJobQueue done 
+22:07:48 [6]: CalamaresWindow::CalamaresWindow(QWidget*)
+    Available desktop QSize(1024, 724) minimum size QSize(1024, 520) 
+    .. Proposed window size: 1024 520 
+22:07:48 [6]: void CalamaresApplication::initView()
+    STARTUP: CalamaresWindow created; loadModules started 
+22:07:48 [2]: virtual void Calamares::ViewModule::loadSelf()
+    WARNING: No factory: "Cannot load library /usr/lib/calamares/modules/welcome/libcalamares_viewmodule_welcome.so: (libcalamaresui.so.3.3: cannot open shared object file: No such file or directory)" 
+22:07:48 [1]: bool Calamares::ModuleManager::addModule(Calamares::Module*)
+    ERROR: Module "welcome@welcome" loading FAILED. 
+22:07:48 [2]: virtual void Calamares::ViewModule::loadSelf()
+    WARNING: No factory: "Cannot load library /usr/lib/calamares/modules/locale/libcalamares_viewmodule_locale.so: (libcalamaresui.so.3.3: cannot open shared object file: No such file or directory)" 
+22:07:48 [1]: bool Calamares::ModuleManager::addModule(Calamares::Module*)
+    ERROR: Module "locale@locale" loading FAILED. 
+22:07:48 [2]: virtual void Calamares::ViewModule::loadSelf()
+    WARNING: No factory: "Cannot load library /usr/lib/calamares/modules/keyboard/libcalamares_viewmodule_keyboard.so: (libcalamaresui.so.3.3: cannot open shared object file: No such file or directory)" 
+22:07:48 [1]: bool Calamares::ModuleManager::addModule(Calamares::Module*)
+    ERROR: Module "keyboard@keyboard" loading FAILED. 
+22:07:48 [2]: virtual void Calamares::ViewModule::loadSelf()
+    WARNING: No factory: "Cannot load library /usr/lib/calamares/modules/partition/libcalamares_viewmodule_partition.so: (libcalamaresui.so.3.3: cannot open shared object file: No such file or directory)" 
+22:07:48 [1]: bool Calamares::ModuleManager::addModule(Calamares::Module*)
+    ERROR: Module "partition@partition" loading FAILED. 
+22:07:48 [2]: virtual void Calamares::ViewModule::loadSelf()
+    WARNING: No factory: "Cannot load library /usr/lib/calamares/modules/users/libcalamares_viewmodule_users.so: (libicuuc.so.72: cannot open shared object file: No such file or directory)" 
+22:07:48 [1]: bool Calamares::ModuleManager::addModule(Calamares::Module*)
+    ERROR: Module "users@users" loading FAILED. 
+22:07:48 [2]: virtual void Calamares::ViewModule::loadSelf()
+    WARNING: No factory: "Cannot load library /usr/lib/calamares/modules/summary/libcalamares_viewmodule_summary.so: (libcalamaresui.so.3.3: cannot open shared object file: No such file or directory)" 
+22:07:48 [1]: bool Calamares::ModuleManager::addModule(Calamares::Module*)
+    ERROR: Module "summary@summary" loading FAILED. 
+22:07:48 [1]: void Calamares::ModuleManager::loadModules()
+    ERROR: Module "partition@partition" exists but not loaded. 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Python modules are not supported in this version of Calamares. 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Bad module type ( "job" ) or interface string ( "python" ) for module  "mount" 
+22:07:48 [1]: void Calamares::ModuleManager::loadModules()
+    ERROR: Module "mount@mount" cannot be created from descriptor "mount.conf" 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Python modules are not supported in this version of Calamares. 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Bad module type ( "job" ) or interface string ( "python" ) for module  "rootfs" 
+22:07:48 [1]: void Calamares::ModuleManager::loadModules()
+    ERROR: Module "unpackfs@rootfs" cannot be created from descriptor "unpackfs1.conf" 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Python modules are not supported in this version of Calamares. 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Bad module type ( "job" ) or interface string ( "python" ) for module  "vmlinuz" 
+22:07:48 [1]: void Calamares::ModuleManager::loadModules()
+    ERROR: Module "unpackfs@vmlinuz" cannot be created from descriptor "unpackfs2.conf" 
+22:07:48 [6]: virtual void Calamares::CppJobModule::loadSelf()
+    Could not load module: "Cannot load library /usr/lib/calamares/modules/machineid/libcalamares_job_machineid.so: (libcalamares.so.3.3: cannot open shared object file: No such file or directory)" 
+22:07:48 [1]: bool Calamares::ModuleManager::addModule(Calamares::Module*)
+    ERROR: Module "machineid@machineid" loading FAILED. 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Python modules are not supported in this version of Calamares. 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Bad module type ( "job" ) or interface string ( "python" ) for module  "fstab" 
+22:07:48 [1]: void Calamares::ModuleManager::loadModules()
+    ERROR: Module "fstab@fstab" cannot be created from descriptor "fstab.conf" 
+22:07:48 [1]: void Calamares::ModuleManager::loadModules()
+    ERROR: Module "locale@locale" exists but not loaded. 
+22:07:48 [1]: void Calamares::ModuleManager::loadModules()
+    ERROR: Module "keyboard@keyboard" exists but not loaded. 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Python modules are not supported in this version of Calamares. 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Bad module type ( "job" ) or interface string ( "python" ) for module  "localecfg" 
+22:07:48 [1]: void Calamares::ModuleManager::loadModules()
+    ERROR: Module "localecfg@localecfg" cannot be created from descriptor "" 
+22:07:48 [6]: virtual void Calamares::CppJobModule::loadSelf()
+    Could not load module: "Cannot load library /usr/lib/calamares/modules/luksbootkeyfile/libcalamares_job_luksbootkeyfile.so: (libcalamares.so.3.3: cannot open shared object file: No such file or directory)" 
+22:07:48 [1]: bool Calamares::ModuleManager::addModule(Calamares::Module*)
+    ERROR: Module "luksbootkeyfile@luksbootkeyfile" loading FAILED. 
+22:07:48 [6]: virtual void Calamares::CppJobModule::loadSelf()
+    Could not load module: "Cannot load library /usr/lib/calamares/modules/luksopenswaphookcfg/libcalamares_job_luksopenswaphookcfg.so: (libcalamares.so.3.3: cannot open shared object file: No such file or directory)" 
+22:07:48 [1]: bool Calamares::ModuleManager::addModule(Calamares::Module*)
+    ERROR: Module "luksopenswaphookcfg@luksopenswaphookcfg" loading FAILED. 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Python modules are not supported in this version of Calamares. 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Bad module type ( "job" ) or interface string ( "python" ) for module  "initcpiocfg" 
+22:07:48 [1]: void Calamares::ModuleManager::loadModules()
+    ERROR: Module "initcpiocfg@initcpiocfg" cannot be created from descriptor "initcpiocfg.conf" 
+22:07:48 [6]: virtual void Calamares::CppJobModule::loadSelf()
+    Could not load module: "Cannot load library /usr/lib/calamares/modules/initcpio/libcalamares_job_initcpio.so: (libcalamares.so.3.3: cannot open shared object file: No such file or directory)" 
+22:07:48 [1]: bool Calamares::ModuleManager::addModule(Calamares::Module*)
+    ERROR: Module "initcpio@initcpio" loading FAILED. 
+22:07:48 [1]: void Calamares::ModuleManager::loadModules()
+    ERROR: Module "users@users" exists but not loaded. 
+22:07:48 [6]: virtual void Calamares::CppJobModule::loadSelf()
+    Could not load module: "Cannot load library /usr/lib/calamares/modules/removeuser/libcalamares_job_removeuser.so: (libcalamares.so.3.3: cannot open shared object file: No such file or directory)" 
+22:07:48 [1]: bool Calamares::ModuleManager::addModule(Calamares::Module*)
+    ERROR: Module "removeuser@removeuser" loading FAILED. 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Python modules are not supported in this version of Calamares. 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Bad module type ( "job" ) or interface string ( "python" ) for module  "displaymanager" 
+22:07:48 [1]: void Calamares::ModuleManager::loadModules()
+    ERROR: Module "displaymanager@displaymanager" cannot be created from descriptor "displaymanager.conf" 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Python modules are not supported in this version of Calamares. 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Bad module type ( "job" ) or interface string ( "python" ) for module  "networkcfg" 
+22:07:48 [1]: void Calamares::ModuleManager::loadModules()
+    ERROR: Module "networkcfg@networkcfg" cannot be created from descriptor "" 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Python modules are not supported in this version of Calamares. 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Bad module type ( "job" ) or interface string ( "python" ) for module  "hwclock" 
+22:07:48 [1]: void Calamares::ModuleManager::loadModules()
+    ERROR: Module "hwclock@hwclock" cannot be created from descriptor "" 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Python modules are not supported in this version of Calamares. 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Bad module type ( "job" ) or interface string ( "python" ) for module  "services-systemd" 
+22:07:48 [1]: void Calamares::ModuleManager::loadModules()
+    ERROR: Module "services-systemd@services-systemd" cannot be created from descriptor "services-systemd.conf" 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Python modules are not supported in this version of Calamares. 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Bad module type ( "job" ) or interface string ( "python" ) for module  "grubcfg" 
+22:07:48 [1]: void Calamares::ModuleManager::loadModules()
+    ERROR: Module "grubcfg@grubcfg" cannot be created from descriptor "grubcfg.conf" 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Python modules are not supported in this version of Calamares. 
+22:07:48 [1]: Calamares::Module* Calamares::moduleFromDescriptor(const ModuleSystem::Descriptor&, const QString&, const QString&, const QString&)
+    ERROR: Bad module type ( "job" ) or interface string ( "python" ) for module  "bootloader" 
+22:07:48 [1]: void Calamares::ModuleManager::loadModules()
+    ERROR: Module "bootloader@bootloader" cannot be created from descriptor "bootloader.conf" 
+22:07:48 [6]: virtual void Calamares::CppJobModule::loadSelf()
+    Could not load module: "Cannot load library /usr/lib/calamares/modules/shellprocess/libcalamares_job_shellprocess.so: (libcalamares.so.3.3: cannot open shared object file: No such file or directory)" 
+22:07:48 [1]: bool Calamares::ModuleManager::addModule(Calamares::Module*)
+    ERROR: Module "shellprocess@final" loading FAILED. 
+22:07:48 [6]: virtual void Calamares::CppJobModule::loadSelf()
+    Could not load module: "Cannot load library /usr/lib/calamares/modules/umount/libcalamares_job_umount.so: (libcalamares.so.3.3: cannot open shared object file: No such file or directory)" 
+22:07:48 [1]: bool Calamares::ModuleManager::addModule(Calamares::Module*)
+    ERROR: Module "umount@umount" loading FAILED. 
+22:07:48 [2]: virtual void Calamares::ViewModule::loadSelf()
+    WARNING: No factory: "Cannot load library /usr/lib/calamares/modules/finished/libcalamares_viewmodule_finished.so: (libcalamaresui.so.3.3: cannot open shared object file: No such file or directory)" 
+22:07:48 [1]: bool Calamares::ModuleManager::addModule(Calamares::Module*)
+    ERROR: Module "finished@finished" loading FAILED. 
+22:07:48 [1]: void CalamaresApplication::initFailed(const QStringList&)
+    ERROR: STARTUP: failed modules are ("welcome@welcome", "locale@locale", "keyboard@keyboard", "partition@partition", "users@users", "summary@summary", "partition@partition", "mount@mount", "unpackfs@rootfs", "unpackfs@vmlinuz", "machineid@machineid", "fstab@fstab", "locale@locale", "keyboard@keyboard", "localecfg@localecfg", "luksbootkeyfile@luksbootkeyfile", "luksopenswaphookcfg@luksopenswaphookcfg", "initcpiocfg@initcpiocfg", "initcpio@initcpio", "users@users", "removeuser@removeuser", "displaymanager@displaymanager", "networkcfg@networkcfg", "hwclock@hwclock", "services-systemd@services-systemd", "grubcfg@grubcfg", "bootloader@bootloader", "shellprocess@final", "umount@umount", "finished@finished") 
+Shutting down Calamares... 
+Finished shutdown. 

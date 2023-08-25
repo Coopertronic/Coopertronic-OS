@@ -175,6 +175,7 @@ kwidgetsaddons
 kwin
 xdg-user-dirs
 xdg-user-dirs-gtk
+stacer
 
 ## For calamares
 kconfig
