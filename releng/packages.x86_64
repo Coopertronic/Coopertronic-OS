@@ -176,6 +176,8 @@ kwin
 xdg-user-dirs
 xdg-user-dirs-gtk
 stacer
+filelight
+cpu-x-opencl
 
 ## For calamares
 kconfig
