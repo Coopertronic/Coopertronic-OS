@@ -178,6 +178,7 @@ xdg-user-dirs-gtk
 stacer
 filelight
 cpu-x-opencl
+hardinfo-git
 
 ## For calamares
 kconfig
