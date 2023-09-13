@@ -179,6 +179,9 @@ stacer
 filelight
 cpu-x-opencl
 hardinfo-git
+iotop
+fail2ban
+nethogs-git
 
 ## For calamares
 kconfig
