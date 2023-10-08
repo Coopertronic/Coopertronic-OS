@@ -182,6 +182,7 @@ hardinfo-git
 iotop
 fail2ban
 nethogs-git
+visual-studio-code-bin
 
 ## For calamares
 kconfig
