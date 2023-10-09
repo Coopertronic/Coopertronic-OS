@@ -192,9 +192,9 @@ fractalus
 csol
 barrage
 openarena
-bass
-#scummvm-git
-sword25
+#bass
+scummvm-git
+#sword25
 
 ## For calamares
 kconfig
