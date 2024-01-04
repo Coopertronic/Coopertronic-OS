@@ -130,9 +130,9 @@ plasma
 firefox
 breeze
 breeze-gtk
-kde-gtk-config
-kdeplasma-addons
-plasma-desktop
+kde-gtk-config5
+kdeplasma-addons5
+plasma-desktop5
 plasma-disks
 plasma-firewall
 systemsettings
@@ -197,8 +197,8 @@ scummvm-git
 #sword25
 
 ## For calamares
-kconfig
-kcoreaddons
+kconfig5
+kcoreaddons5
 kiconthemes
 ki18n
 kio
