@@ -212,7 +212,7 @@ hwinfo
 qt5-svg
 polkit-qt5
 gtk-update-icon-cache
-plasma-framework
+plasma-framework5
 qt5-xmlpatterns
 libpwquality
 icu
