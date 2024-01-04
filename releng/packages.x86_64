@@ -130,9 +130,9 @@ plasma
 firefox
 breeze
 breeze-gtk
-kde-gtk-config5
-kdeplasma-addons5
-plasma-desktop5
+kde-gtk-config
+kdeplasma-addons
+plasma-desktop
 plasma-disks
 plasma-firewall
 systemsettings
