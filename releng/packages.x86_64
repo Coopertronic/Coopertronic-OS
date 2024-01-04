@@ -171,7 +171,7 @@ neon-knights-kde-pasma
 ctos-kde-splash
 ctos-sddm-theme
 ctos-wallpapers
-kwidgetsaddons
+kwidgetsaddons5
 kwin
 xdg-user-dirs
 xdg-user-dirs-gtk
@@ -199,10 +199,10 @@ scummvm-git
 ## For calamares
 kconfig5
 kcoreaddons5
-kiconthemes
-ki18n
-kio
-solid
+kiconthemes5
+ki18n5
+kio5
+solid5
 yaml-cpp
 kpmcore>=4.2.0
 mkinitcpio-openswap
