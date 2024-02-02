@@ -183,18 +183,18 @@ hardinfo-git
 iotop
 fail2ban
 nethogs-git
-visual-studio-code-bin
+#visual-studio-code-bin
 skanlite
 spectacle
 freeoffice
 
 ##  Games
-fractalus
-csol
-barrage
-openarena
+#fractalus
+#csol
+#barrage
+#openarena
 #bass
-scummvm-git
+#scummvm-git
 #sword25
 
 ## For calamares
