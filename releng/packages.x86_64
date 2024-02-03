@@ -164,7 +164,7 @@ neofetch
 leafpad
 chntpw
 plymouth
-calamares
+#calamares
 #calamares-core-local
 #ctos-calamares-settings
 git-helper
