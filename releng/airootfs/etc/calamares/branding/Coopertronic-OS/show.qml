@@ -40,7 +40,7 @@ Presentation
 
         Image {
             id: background1
-            source: "slide1.png"
+            source: "dragon-circle.coopertronic.black.red.BG.2021.Slide-1.png"
             width: parent.width; height: parent.height          
             horizontalAlignment: Image.AlignCenter
     		verticalAlignment: Image.AlignTop
@@ -53,7 +53,7 @@ Presentation
                 anchors.horizontalCenterOffset: 0
                 font.pixelSize: parent.width *.020
                 color: 'white'
-                text: qsTr("<b>Welcome to Coopertronic-OS, an Arch based Linux<br/>")
+                text: qsTr("<b>Welcome to Coopertronic-OS, The home of Happy Computers<br/>")
                 wrapMode: Text.WordWrap
                 width: parent.width / 1.4
                 horizontalAlignment: Text.AlignHCenter
