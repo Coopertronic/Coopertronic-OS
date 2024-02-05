@@ -1,11 +1,11 @@
-# Ezarcher custom settings
+# Coopertronic-OS custom settings
 # SPDX-FileCopyrightText: no
 # SPDX-License-Identifier: CC0-1.0
 #
 # Product branding information
 #
 ---
-componentName:  ezarcher
+componentName:  Coopertronic-OS
 
 welcomeStyleCalamares:   false
 
@@ -23,12 +23,12 @@ navigation: widget
 
 strings:
     productName:         "@{NAME}"
-    shortProductName:    ezarcher
+    shortProductName:    Coopertronic-OS
     version:             2024
     shortVersion:        2024
-    versionedName:       ezarcher
-    shortVersionedName:  ezarcher
-    bootloaderEntryName: ezarcher
+    versionedName:       Coopertronic-OS
+    shortVersionedName:  Coopertronic-OS
+    bootloaderEntryName: Coopertronic-OS
     productUrl:          https://sourceforge.net/projects/ezarch/
 
 images:

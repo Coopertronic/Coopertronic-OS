@@ -183,19 +183,28 @@ hardinfo-git
 iotop
 fail2ban
 nethogs-git
-#visual-studio-code-bin
+visual-studio-code-bin
 skanlite
 spectacle
 freeoffice
 ttf-ms-fonts
 bombono-dvd
-vivaldi-snapshot
-vivaldi-widevine
+#vivaldi-snapshot
+#vivaldi-widevine
+typora
+zapzap-linux
+
+##  Graphics
+gimp
+avidemux-qt
+obs-studio
+shotcut
+
 
 ##  Games
-#fractalus
-#csol
-#barrage
+fractalus
+csol
+barrage
 #openarena
 #bass
 #scummvm-git

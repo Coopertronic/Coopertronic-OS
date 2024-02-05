@@ -15,7 +15,7 @@
  *   You should have received a copy of the GNU General Public License
  *   along with Calamares. If not, see <http://www.gnu.org/licenses/>.
  * 
- *   Ezarcher custom settings
+ *   Coopertronic-OS custom settings
  */
 
 import QtQuick 2.0;
@@ -53,7 +53,7 @@ Presentation
                 anchors.horizontalCenterOffset: 0
                 font.pixelSize: parent.width *.020
                 color: 'white'
-                text: qsTr("<b>Welcome to Ezarcher, an Arch based Linux<br/>")
+                text: qsTr("<b>Welcome to Coopertronic-OS, an Arch based Linux<br/>")
                 wrapMode: Text.WordWrap
                 width: parent.width / 1.4
                 horizontalAlignment: Text.AlignHCenter
@@ -80,7 +80,7 @@ Presentation
                 anchors.horizontalCenterOffset: 0
                 font.pixelSize: parent.width *.020
                 color: 'white'
-                text: qsTr("<b>Ezarcher is 100% compatible with Arch Linux<br/>")
+                text: qsTr("<b>Coopertronic-OS is 100% compatible with Arch Linux<br/>")
                 
                 wrapMode: Text.WordWrap
                 width: parent.width / 1.4
@@ -108,7 +108,7 @@ Presentation
                 anchors.horizontalCenterOffset: 0
                 font.pixelSize: parent.width *.020
                 color: 'white'
-                text: qsTr("<b>Look inside the ~/ezarcher folder for documentation<br/>")
+                text: qsTr("<b>Look inside the ~/Coopertronic-OS folder for documentation<br/>")
                 wrapMode: Text.WordWrap
                 width: parent.width / 1.4
                 horizontalAlignment: Text.AlignHCenter
@@ -135,7 +135,7 @@ Presentation
                 anchors.horizontalCenterOffset: 0
                 font.pixelSize: parent.width *.020
                 color: 'white'
-                text: qsTr("<b>Thank you for trying Ezarcher<br/>")
+                text: qsTr("<b>Thank you for trying Coopertronic-OS<br/>")
                 wrapMode: Text.WordWrap
                 width: parent.width / 1.4
                 horizontalAlignment: Text.AlignHCenter
