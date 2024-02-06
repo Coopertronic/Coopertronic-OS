@@ -67,7 +67,7 @@ Presentation
 
         Image {
             id: background2
-            source: "slide1.png"
+            source: "dragon-circle.coopertronic.black.red.BG.2021.Slide-2.png"
             width: parent.width; height: parent.height          
             horizontalAlignment: Image.AlignCenter
     		verticalAlignment: Image.AlignTop
@@ -80,7 +80,7 @@ Presentation
                 anchors.horizontalCenterOffset: 0
                 font.pixelSize: parent.width *.020
                 color: 'white'
-                text: qsTr("<b>Coopertronic-OS is 100% compatible with Arch Linux<br/>")
+                text: qsTr("<b>Coopertronic-OS uses the KDE desktop<br/>")
                 
                 wrapMode: Text.WordWrap
                 width: parent.width / 1.4
