@@ -192,7 +192,8 @@ bombono-dvd
 #vivaldi-snapshot
 #vivaldi-widevine
 typora
-zapzap-linux
+#zapzap-linux
+whatsapp-for-linux
 
 ##  Graphics
 gimp
@@ -202,13 +203,14 @@ shotcut
 
 
 ##  Games
-fractalus
-csol
+#fractalus
+#csol
 barrage
 #openarena
 #bass
 #scummvm-git
 #sword25
+chromium-bsu
 
 ## For calamares
 kconfig5
