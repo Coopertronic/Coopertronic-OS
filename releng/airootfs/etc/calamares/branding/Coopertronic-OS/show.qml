@@ -95,7 +95,7 @@ Presentation
 
         Image {
             id: background3
-            source: "slide1.png"
+            source: "dragon-circle.coopertronic.black.red.BG.2021.Slide-1.png"
             width: parent.width; height: parent.height          
             horizontalAlignment: Image.AlignCenter
     		verticalAlignment: Image.AlignTop
@@ -122,7 +122,7 @@ Presentation
 
         Image {
             id: background4
-            source: "slide1.png"
+            source: "dragon-circle.coopertronic.black.red.BG.2021.Slide-2.png"
             width: parent.width; height: parent.height
             horizontalAlignment: Image.AlignCenter
     		verticalAlignment: Image.AlignTop
