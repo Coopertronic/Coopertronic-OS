@@ -29,7 +29,7 @@ strings:
     versionedName:       Coopertronic-OS
     shortVersionedName:  Coopertronic-OS
     bootloaderEntryName: Coopertronic-OS
-    productUrl:          https://sourceforge.net/projects/ezarch/
+    productUrl:          https://github.com/Coopertronic/Coopertronic-OS
 
 images:
     productIcon:         "squid.png"
