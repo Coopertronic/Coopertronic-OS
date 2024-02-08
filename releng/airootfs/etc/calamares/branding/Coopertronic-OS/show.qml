@@ -95,7 +95,7 @@ Presentation
 
         Image {
             id: background3
-            source: "dragon-circle.coopertronic.black.red.BG.2021.Slide-1.png"
+            source: "dragon-circle.coopertronic.black.red.BG.2021.Slide-3.png"
             width: parent.width; height: parent.height          
             horizontalAlignment: Image.AlignCenter
     		verticalAlignment: Image.AlignTop
@@ -108,7 +108,7 @@ Presentation
                 anchors.horizontalCenterOffset: 0
                 font.pixelSize: parent.width *.020
                 color: 'white'
-                text: qsTr("<b>Look inside the ~/Coopertronic-OS folder for documentation<br/>")
+                text: qsTr("<b>A work in progress<br/>")
                 wrapMode: Text.WordWrap
                 width: parent.width / 1.4
                 horizontalAlignment: Text.AlignHCenter
@@ -122,7 +122,7 @@ Presentation
 
         Image {
             id: background4
-            source: "dragon-circle.coopertronic.black.red.BG.2021.Slide-2.png"
+            source: "dragon-circle.coopertronic.black.red.BG.2021.Slide-4.png"
             width: parent.width; height: parent.height
             horizontalAlignment: Image.AlignCenter
     		verticalAlignment: Image.AlignTop
