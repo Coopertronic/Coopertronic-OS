@@ -32,10 +32,10 @@ strings:
     productUrl:          https://github.com/Coopertronic/Coopertronic-OS
 
 images:
-    productIcon:         "squid.png"
-    productLogo:         "logo.png"
+    productIcon:         "dragon-circle.white.coopertronic.3D-icon.2021.square.png"
+    productLogo:         "dragon-circle.white.green.coopertronic.3D-icon.2021.square.png"
     productWallpaper:    "wallpaper.png"
-    productWelcome:      "languages.png"
+    productWelcome:      "dragon-circle.black.red.coopertronic.3D-icon.2021.png"
 
 style:
    sidebarBackground:    "#292F34"
