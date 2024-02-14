@@ -2,10 +2,10 @@
 # shellcheck disable=SC2034
 
 iso_name="coopertronic-os"
-iso_label="coopertronic-os_v0.062_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
+iso_label="coopertronic-os_v0.063_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
 iso_publisher="Coopertronic OS <https://coopertronic.co.uk>"
 iso_application="Coopertronic OS Live ISO"
-iso_version="v0.062_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y.%m.%d)"
+iso_version="v0.063_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y.%m.%d)"
 install_dir="arch"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito'
