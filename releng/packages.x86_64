@@ -183,23 +183,23 @@ hardinfo-git
 iotop
 fail2ban
 nethogs-git
-visual-studio-code-bin
+#visual-studio-code-bin
 skanlite
 spectacle
-freeoffice
+#freeoffice
 ttf-ms-fonts
-bombono-dvd
+#bombono-dvd
 #vivaldi-snapshot
 #vivaldi-widevine
 typora
 #zapzap-linux
-whatsapp-for-linux
+#whatsapp-for-linux
 
 ##  Graphics
-gimp
-avidemux-qt
-obs-studio
-shotcut
+#gimp
+#avidemux-qt
+#obs-studio
+#shotcut
 
 
 ##  Games
@@ -210,7 +210,7 @@ barrage
 #bass
 #scummvm-git
 #sword25
-chromium-bsu
+#chromium-bsu
 
 ## For calamares
 kconfig5
