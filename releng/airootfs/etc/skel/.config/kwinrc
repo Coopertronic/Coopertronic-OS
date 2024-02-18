@@ -19,10 +19,10 @@ LayoutMode=0
 diminactiveEnabled=true
 kwin4_effect_animationsSuiteEnabled=true
 kwin4_effect_eyeonscreenEnabled=true
-kwin4_effect_pixel_wipeEnabled=true
 kwin4_effect_scaleEnabled=false
 kwin4_effect_squashEnabled=false
 kwin4_effect_translucencyEnabled=true
+kwin4_effect_tv_glitchEnabled=true
 kwin4_effect_windowapertureEnabled=false
 magiclampEnabled=true
 slidebackEnabled=true
@@ -32,6 +32,9 @@ wobblywindowsEnabled=true
 padding=4
 
 [Tiling][2e0b1bcb-451e-58cf-a2ab-3a9326c9372a]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][3f996c30-6b7e-5c99-abb4-ca75630db602]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][9350f969-92d0-5658-bb27-639b07d90acc]
