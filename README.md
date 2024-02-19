@@ -19,10 +19,8 @@ I am including 2 GUI package manages because I can't make up my mind yet. Both P
 
 ### Thanks to
 
-Many thanks to DistroTube who inspired me to do this with his videos.
+Many thanks to DistroTube who inspired me to do this with his videos. [Website](https://distro.tube/) [YouTube](https://www.youtube.com/DistroTube) [Odysee](https://odysee.com/@DistroTube:2) [GitLab](https://gitlab.com/dwt1)
 
-Many thanks to the people on the Rebourne OS and Bred OS discord servers. You have been a tremendous help in getting me through the difficult learning curve.
+Many thanks to the people on the [Reborn OS](https://rebornos.org/) and [Bred OS](https://bredos.org/) discord servers. You have been a tremendous help in getting me through the difficult learning curve.
 
-Many thanks to EZarcher that made it possible to get calamares up and running without error.
-
-I will be updating this readme with links to their respective projects.
+Many thanks to [EZarcher](https://sourceforge.net/projects/ezarch/) that made it possible to get calamares up and running without error.
