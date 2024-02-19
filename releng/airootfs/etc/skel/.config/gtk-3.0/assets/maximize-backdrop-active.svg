@@ -7,16 +7,22 @@
 </defs>
 <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
 
-<g fill="#c9ced2" fill-opacity="1" stroke="none" transform="matrix(2.5,0,0,2.5,2.5,2.5)"
+<g fill="none" stroke="none" transform="matrix(2.27273,0,0,2.27273,0,-129.545)"
 font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
 >
-<circle cx="9" cy="9" r="9"/>
+<rect x="4.83139e-07" y="57" width="22" height="22"/>
 </g>
 
-<g fill="none" stroke="#eff0f1" stroke-opacity="1" stroke-width="1.01" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.5,0,0,2.5,2.5,2.5)"
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(2.27273,0,0,2.27273,56.8182,-129.545)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+opacity="0.2" >
+<rect x="-25" y="57" width="22" height="22"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(2.27273,0,0,2.27273,56.8182,-129.545)"
 font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
 >
-<polyline fill="none" vector-effect="none" points="4,11 9,6 14,11 " />
+<path vector-effect="none" fill-rule="nonzero" d="M-19,63 L-19,73 L-9,73 L-9,63 L-19,63 M-18,64 L-10,64 L-10,72 L-18,72 L-18,64"/>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"

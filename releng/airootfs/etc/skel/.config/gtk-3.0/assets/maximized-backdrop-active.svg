@@ -7,16 +7,34 @@
 </defs>
 <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
 
-<g fill="#c9ced2" fill-opacity="1" stroke="none" transform="matrix(2.5,0,0,2.5,2.5,2.5)"
+<g fill="none" stroke="none" transform="matrix(2.27273,0,0,2.27273,52.2727,-68.1818)"
 font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
 >
-<circle cx="9" cy="9" r="9"/>
+<rect x="-23" y="30" width="22" height="22"/>
 </g>
 
-<g fill="none" stroke="#eff0f1" stroke-opacity="1" stroke-width="1.01" stroke-linecap="round" stroke-linejoin="round" transform="matrix(2.5,0,0,2.5,2.5,2.5)"
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(2.27273,0,0,2.27273,52.2727,-68.1818)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+opacity="0.2" >
+<rect x="-23" y="30" width="22" height="22"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(2.27273,0,0,2.27273,52.2727,0)"
 font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
 >
-<path vector-effect="none" fill-rule="evenodd" d="M4,9 L9,4 L14,9 L9,14 L4,9"/>
+<path vector-effect="none" fill-rule="nonzero" d="M-17,8 L-17,16 L-9,16 L-9,8 L-17,8 M-16,9 L-10,9 L-10,15 L-16,15 L-16,9"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(2.27273,0,0,2.27273,52.2727,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<rect x="-17" y="6" width="10" height="1"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(0,-2.27273,2.27273,0,52.2727,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<rect x="-16" y="-8" width="10" height="1"/>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
