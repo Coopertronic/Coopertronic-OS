@@ -231,7 +231,7 @@ qt6-svg
 polkit-qt6
 gtk-update-icon-cache
 plasma-framework5
-qt6-xmlpatterns
+#qt6-xmlpatterns
 libpwquality
 icu
 
