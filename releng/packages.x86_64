@@ -164,7 +164,8 @@ neofetch
 leafpad
 chntpw
 plymouth
-calamares
+ctos-calamares
+#calamares
 #calamares-core-local
 #ctos-calamares-settings
 git-helper
@@ -194,7 +195,7 @@ ttf-ms-fonts
 typora
 #zapzap-linux
 #whatsapp-for-linux
-packagekit-qt5
+packagekit-qt6
 
 ##  Graphics
 #gimp
@@ -214,23 +215,23 @@ barrage
 #chromium-bsu
 
 ## For calamares
-kconfig5
-kcoreaddons5
-kiconthemes5
-ki18n5
-kio5
-solid5
+kconfig
+kcoreaddons
+kiconthemes
+ki18n
+kio
+solid
 yaml-cpp
 kpmcore>=4.2.0
 mkinitcpio-openswap
 boost-libs
 ckbcomp
 hwinfo
-qt5-svg
-polkit-qt5
+qt6-svg
+polkit-qt6
 gtk-update-icon-cache
 plasma-framework5
-qt5-xmlpatterns
+qt6-xmlpatterns
 libpwquality
 icu
 
