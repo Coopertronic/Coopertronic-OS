@@ -22,13 +22,13 @@ sidebar: widget
 navigation: widget
 
 strings:
-    productName:         "@{NAME}"
-    shortProductName:    Coopertronic-OS
-    version:             2024
-    shortVersion:        2024
-    versionedName:       Coopertronic-OS
-    shortVersionedName:  Coopertronic-OS
-    bootloaderEntryName: Coopertronic-OS
+    productName:         Coopertronic-OS
+    shortProductName:    ctos
+    version:             v0.070-2024
+    shortVersion:        v0.070
+    versionedName:       Coopertronic-OS_v0.070
+    shortVersionedName:  ctos_v0.070
+    bootloaderEntryName: Coopertronic-OS_v0.070
     productUrl:          https://github.com/Coopertronic/Coopertronic-OS
 
 images:
