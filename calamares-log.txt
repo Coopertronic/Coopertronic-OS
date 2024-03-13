@@ -1,7 +1,0 @@
-23:06:08 [1]: void Calamares::ModuleManager::loadModules()
-    ERROR: Module "initramfs@initramfs" not found in module search paths. 
-     "/usr/lib/calamares/modules" 
-23:06:08 [1]: void CalamaresApplication::initFailed(const QStringList&)
-    ERROR: STARTUP: failed modules are ("initramfs@initramfs") 
-23:06:09 [1]: OsproberEntryList PartUtils::runOsprober(DeviceModel*)
-    ERROR: os-prober cannot start. 
