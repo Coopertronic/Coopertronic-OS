@@ -228,7 +228,7 @@ boost-libs
 ckbcomp
 hwinfo
 qt6-svg
-polkit-qt6
+polkit-qt6-git
 gtk-update-icon-cache
 plasma-framework-git
 #qt6-xmlpatterns
