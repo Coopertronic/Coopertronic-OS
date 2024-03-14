@@ -173,7 +173,7 @@ neon-knights-kde-pasma
 ctos-kde-splash
 ctos-sddm-theme
 ctos-wallpapers
-kwidgetsaddons5
+kwidgetsaddons-git
 kwin
 xdg-user-dirs
 xdg-user-dirs-gtk
@@ -230,7 +230,7 @@ hwinfo
 qt6-svg
 polkit-qt6
 gtk-update-icon-cache
-plasma-framework5
+plasma-framework-git
 #qt6-xmlpatterns
 libpwquality
 icu
