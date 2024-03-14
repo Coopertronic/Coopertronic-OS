@@ -15,20 +15,20 @@ windowExpanding:    normal
 
 windowSize: 800px,520px
 
-windowPlacement: center
+windowPlacement: top
 
 sidebar: widget
 
 navigation: widget
 
 strings:
-    productName:         Coopertronic-OS
+    productName:         @{NAME}
     shortProductName:    ctos
-    version:             v0.070-2024
-    shortVersion:        v0.070
-    versionedName:       Coopertronic-OS_v0.070
-    shortVersionedName:  ctos_v0.070
-    bootloaderEntryName: Coopertronic-OS_v0.070
+    version:             v0.071-2024
+    shortVersion:        v0.071
+    versionedName:       Coopertronic-OS_v0.071
+    shortVersionedName:  ctos_v0.071
+    bootloaderEntryName: Coopertronic-OS_v0.071
     productUrl:          https://github.com/Coopertronic/Coopertronic-OS
 
 images:
