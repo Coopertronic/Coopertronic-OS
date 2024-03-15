@@ -149,8 +149,8 @@ kwin
 
 # Added Packages
 firefox
-breeze
-breeze-gtk
+#breeze
+#breeze-gtk
 systemsettings
 networkmanager
 network-manager-applet
