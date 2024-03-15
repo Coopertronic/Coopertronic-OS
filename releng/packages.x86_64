@@ -125,16 +125,16 @@ xorg-xrandr
 zsh
 
 # Added Packages
-#dolphin
-#plasma
+dolphin
+plasma
 firefox
 breeze
 breeze-gtk
-#kde-gtk-config
-#kdeplasma-addons
-#plasma-desktop
-#plasma-disks
-#plasma-firewall
+kde-gtk-config
+kdeplasma-addons
+plasma-desktop
+plasma-disks
+plasma-firewall
 systemsettings
 xdg-desktop-portal-kde
 networkmanager
@@ -170,11 +170,11 @@ ctos-calamares
 #ctos-calamares-settings
 git-helper
 neon-knights-kde-pasma
-#ctos-kde-splash
-#ctos-sddm-theme
-#ctos-wallpapers
-#kwidgetsaddons-git
-#kwin
+ctos-kde-splash
+ctos-sddm-theme
+ctos-wallpapers
+kwidgetsaddons-git
+kwin
 xdg-user-dirs
 xdg-user-dirs-gtk
 stacer
@@ -195,7 +195,7 @@ ttf-ms-fonts
 typora
 #zapzap-linux
 #whatsapp-for-linux
-#packagekit-qt6
+packagekit-qt6
 
 ##  Graphics
 #gimp
@@ -215,20 +215,20 @@ barrage
 #chromium-bsu
 
 ## For calamares
-#kconfig-git
-#kcoreaddons-git
-#kiconthemes-git
-#ki18n-git
-#kio-git
-#solid-git
+kconfig
+kcoreaddons
+kiconthemes
+ki18n
+kio
+solid
 yaml-cpp
-#kpmcore-git-debug
+kpmcore
 mkinitcpio-openswap
 boost-libs
 ckbcomp
 hwinfo
-#qt6-svg
-#polkit-qt6-git
+qt6-svg
+polkit-qt6
 gtk-update-icon-cache
 #plasma-framework-git
 #qt6-xmlpatterns
