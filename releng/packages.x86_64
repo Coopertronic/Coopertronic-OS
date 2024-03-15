@@ -215,22 +215,22 @@ barrage
 #chromium-bsu
 
 ## For calamares
-kconfig-git
-kcoreaddons-git
-kiconthemes-git
-ki18n-git
-kio-git
-solid-git
+#kconfig-git
+#kcoreaddons-git
+#kiconthemes-git
+#ki18n-git
+#kio-git
+#solid-git
 yaml-cpp
-kpmcore-git-debug
+#kpmcore-git-debug
 mkinitcpio-openswap
 boost-libs
 ckbcomp
 hwinfo
-qt6-svg
-polkit-qt6-git
+#qt6-svg
+#polkit-qt6-git
 gtk-update-icon-cache
-plasma-framework-git
+#plasma-framework-git
 #qt6-xmlpatterns
 libpwquality
 icu
