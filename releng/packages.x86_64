@@ -110,8 +110,8 @@ udftools
 usb_modeswitch
 usbmuxd
 usbutils
-vim
-virtualbox-guest-utils-nox
+#vim
+#virtualbox-guest-utils-nox
 vpnc
 wezterm-terminfo
 wireless-regdb
@@ -127,7 +127,7 @@ zsh
 # KDE Plasma Packages
 plasma
 kde-gtk-config
-kdeplasma-addons
+#kdeplasma-addons
 plasma-desktop
 plasma-disks
 plasma-firewall
@@ -135,12 +135,14 @@ xdg-desktop-portal-kde
 konsole
 dolphin
 sddm
-neon-knights-kde-pasma
-ctos-kde-splash
-ctos-sddm-theme
+#neon-knights-kde-pasma
+#ctos-kde-splash
+#ctos-sddm-theme
 ctos-wallpapers
 kwidgetsaddons-git
 kwin
+#skanlite
+#spectacle
 
 # Added Packages
 firefox
@@ -150,11 +152,11 @@ systemsettings
 networkmanager
 network-manager-applet
 xf86-video-qxl
-xf86-video-intel
-xf86-video-amdgpu
-xf86-video-nouveau
-xf86-video-vmware
-xf86-video-vesa
+#xf86-video-intel
+#xf86-video-amdgpu
+#xf86-video-nouveau
+#xf86-video-vmware
+#xf86-video-vesa
 xorg
 cups
 cups-filters
@@ -166,7 +168,7 @@ bluez
 bluez-utils
 gparted
 gnome-disk-utility
-yakuake
+#yakuake
 htop
 neofetch
 leafpad
@@ -179,25 +181,23 @@ ctos-calamares
 git-helper
 xdg-user-dirs
 xdg-user-dirs-gtk
-stacer
-filelight
+#stacer
+#filelight
 cpu-x-opencl
 hardinfo-git
 iotop
 fail2ban
 nethogs-git
 #visual-studio-code-bin
-skanlite
-spectacle
 #freeoffice
-ttf-ms-fonts
+#ttf-ms-fonts
 #bombono-dvd
 #vivaldi-snapshot
 #vivaldi-widevine
-typora
+#typora
 #zapzap-linux
 #whatsapp-for-linux
-packagekit-qt6
+#packagekit-qt6
 
 ##  Graphics
 #gimp
@@ -209,7 +209,7 @@ packagekit-qt6
 ##  Games
 #fractalus
 #csol
-barrage
+#barrage
 #openarena
 #bass
 #scummvm-git
@@ -232,6 +232,7 @@ hwinfo
 qt6-svg
 polkit-qt6
 gtk-update-icon-cache
+plasma-framework5
 #plasma-framework-git
 #qt6-xmlpatterns
 libpwquality
