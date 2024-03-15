@@ -222,7 +222,7 @@ ki18n-git
 kio-git
 solid-git
 yaml-cpp
-kpmcore-git
+kpmcore-git-debug
 mkinitcpio-openswap
 boost-libs
 ckbcomp
@@ -231,7 +231,7 @@ qt6-svg
 polkit-qt6-git
 gtk-update-icon-cache
 plasma-framework-git
-qt6-xmlpatterns
+#qt6-xmlpatterns
 libpwquality
 icu
 
