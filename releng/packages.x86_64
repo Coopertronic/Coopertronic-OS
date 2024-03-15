@@ -124,19 +124,29 @@ xorg-server
 xorg-xrandr
 zsh
 
-# Added Packages
-dolphin
+# KDE Plasma Packages
 plasma
-firefox
-breeze
-breeze-gtk
 kde-gtk-config
 kdeplasma-addons
 plasma-desktop
 plasma-disks
 plasma-firewall
-systemsettings
 xdg-desktop-portal-kde
+konsole
+dolphin
+sddm
+neon-knights-kde-pasma
+ctos-kde-splash
+ctos-sddm-theme
+ctos-wallpapers
+kwidgetsaddons-git
+kwin
+
+# Added Packages
+firefox
+breeze
+breeze-gtk
+systemsettings
 networkmanager
 network-manager-applet
 xf86-video-qxl
@@ -154,10 +164,8 @@ libcups
 python-pycups
 bluez
 bluez-utils
-sddm
 gparted
 gnome-disk-utility
-konsole
 yakuake
 htop
 neofetch
@@ -169,12 +177,6 @@ ctos-calamares
 #calamares-core-local
 #ctos-calamares-settings
 git-helper
-neon-knights-kde-pasma
-ctos-kde-splash
-ctos-sddm-theme
-ctos-wallpapers
-kwidgetsaddons-git
-kwin
 xdg-user-dirs
 xdg-user-dirs-gtk
 stacer
