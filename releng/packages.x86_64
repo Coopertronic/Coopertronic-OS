@@ -126,14 +126,18 @@ zsh
 
 # KDE Plasma Packages
 plasma
+konsole
+dolphin
+ark
+kcalc
+partitionmanager
+spectacle
 kde-gtk-config
 #kdeplasma-addons
-plasma-desktop
+#plasma-desktop
 plasma-disks
 plasma-firewall
 xdg-desktop-portal-kde
-konsole
-dolphin
 sddm
 #neon-knights-kde-pasma
 #ctos-kde-splash
@@ -142,7 +146,6 @@ ctos-wallpapers
 kwidgetsaddons-git
 kwin
 #skanlite
-#spectacle
 
 # Added Packages
 firefox
