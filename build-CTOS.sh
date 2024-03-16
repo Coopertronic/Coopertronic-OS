@@ -1,11 +1,8 @@
 #!/bin/bash
 
+##  Needed functions - You need the ctos-functions package installed.
 source ctos-functions
 
-#if [ "$EUID" -ne 0 ]; then
-#    echo "You need to run as ROOT, dummy!!!"
-#    exit
-#fi
 check_root
 ## Make default locations.
 STARTUP="/home/matt/ISO_Build"
@@ -20,21 +17,11 @@ rm -rf ${STARTUP}
 ## Compile the ISO image using the ArchISO package.
 if !( mkarchiso -v -w ${STARTUP} -o ${IMG_LOC} ${INSTRUCTIONS} ); then
     echo "Cannot complete the compolation of the ISO."
-    echo "Please view the errors."
-    exit 1
+    something_wrong
 else
     echo "Compiling the ISO image. Please wait …"
-fi
-
-echo "ISO creation complete."
-echo "Do you want to copy it to the ISO_Store?"
-echo "Yes or No? (y/n)"
-read shallContinue
-if ($shallContinue != "y"); then
-    echo "All finished. You will find the newly created"
-    echo "ISO in the folder called ISO_Dump."
-    exit 0
-else
+    to_continue
+    ##  This copies the ISO image to the repo
     ## Connect to the remote folder via SSHFS and copy the new ISO to it.
     echo "Connecting to network drive. Please wait …"
     ### Test that the remote folder can be connected to or NOT
@@ -42,7 +29,7 @@ else
         echo "Mounting failed!!"
         echo "Please check network connections."
         echo "Unable to copy image to host."
-        exit 1
+        something_wrong
     else
         echo "Attempting to Copying the new ISO to the remote folder."
         DUMP_DIR=${IMG_LOC}
@@ -53,11 +40,11 @@ else
         ## CHeck if file exists in the ISO_Dump folder
         if [ -z "${NEW_ISO}" ]; then
             echo "No file to copy"
-            exit 1
+            something_wrong
         elif [ -d "${NEW_ISO}" ]; then
             echo "The newest entry is a directory."
             echo "Please examine your build instructions."
-            exit 1
+            something_wrong
         else
             echo "Copying ${NEW_ISO}"
             cp -p "${NEW_ISO}" "${REMOTE_DIR}"
