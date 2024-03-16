@@ -1,8 +1,12 @@
 #!/bin/bash
-if [ "$EUID" -ne 0 ]; then
-    echo "You need to run as ROOT, dummy!!!"
-    exit
-fi
+
+source ctos-functions
+
+#if [ "$EUID" -ne 0 ]; then
+#    echo "You need to run as ROOT, dummy!!!"
+#    exit
+#fi
+check_root
 ## Make default locations.
 STARTUP="/home/matt/ISO_Build"
 IMG_LOC="/home/matt/ISO_Dump"
