@@ -181,6 +181,7 @@ ctos-calamares
 #calamares
 #calamares-core-local
 #ctos-calamares-settings
+pamac-all
 git-helper
 xdg-user-dirs
 xdg-user-dirs-gtk
@@ -194,6 +195,7 @@ nethogs-git
 #visual-studio-code-bin
 #freeoffice
 #ttf-ms-fonts
+gnu-free-fonts
 #bombono-dvd
 #vivaldi-snapshot
 #vivaldi-widevine
