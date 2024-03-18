@@ -6,6 +6,7 @@ wheel:Vertical;NoModifier=org.kde.switchdesktop
 RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][1]
+ItemGeometries-1024x768=
 ItemGeometries-1280x720=
 ItemGeometries-1280x800=
 ItemGeometries-1920x1080=
@@ -23,7 +24,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][1][General]
-positions={"1280x800":["1"\\,"11"\\,"desktop:/WWW_Local"\\,"0"\\,"0"\\,"desktop:/Empty File"\\,"0"\\,"1"]\\,"1280x720":[]\\,"1920x1080":[]\\,"1024x768":[""]}
+positions={"1280x800":["1"\\,"11"\\,"desktop:/WWW_Local"\\,"0"\\,"0"\\,"desktop:/Empty File"\\,"0"\\,"1"]\\,"1280x720":[]\\,"1920x1080":[]\\,"1024x768":[]}
 sortMode=-1
 
 [Containments][1][Wallpaper][org.kde.image][General]
@@ -42,6 +43,9 @@ wallpaperplugin=org.kde.image
 [Containments][2][Applets][18]
 immutability=1
 plugin=org.kde.plasma.digitalclock
+
+[Containments][2][Applets][18][Configuration][Appearance]
+fontWeight=400
 
 [Containments][2][Applets][19]
 immutability=1
@@ -74,7 +78,7 @@ immutability=1
 plugin=org.kde.plasma.icontasks
 
 [Containments][2][Applets][5][Configuration][General]
-launchers=applications:systemsettings.desktop,applications:org.kde.discover.desktop,preferred://filemanager,preferred://browser,applications:org.kde.konsole.desktop
+launchers=applications:systemsettings.desktop,preferred://filemanager,preferred://browser,applications:org.kde.konsole.desktop,applications:org.manjaro.pamac.manager.desktop
 
 [Containments][2][Applets][6]
 immutability=1
@@ -213,6 +217,9 @@ plugin=org.kde.plasma.nightcolorcontrol
 immutability=1
 plugin=org.kde.plasma.battery
 
+[Containments][8][Applets][21][Configuration]
+PreloadWeight=34
+
 [Containments][8][Applets][22]
 immutability=1
 plugin=org.kde.plasma.networkmanagement
@@ -224,14 +231,29 @@ plugin=org.kde.plasma.mediacontroller
 [Containments][8][Applets][26][Configuration]
 PreloadWeight=34
 
+[Containments][8][Applets][32]
+immutability=1
+plugin=org.kde.plasma.cameraindicator
+
+[Containments][8][Applets][33]
+immutability=1
+plugin=org.kde.plasma.printmanager
+
+[Containments][8][Applets][34]
+immutability=1
+plugin=org.kde.plasma.brightness
+
+[Containments][8][Applets][34][Configuration]
+PreloadWeight=34
+
 [Containments][8][Applets][9]
 immutability=1
 plugin=org.kde.kscreen
 
 [Containments][8][General]
-extraItems=org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.nightcolorcontrol,org.kde.plasma.notifications,org.kde.plasma.vault,org.kde.plasma.volume
-knownItems=org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.nightcolorcontrol,org.kde.plasma.notifications,org.kde.plasma.vault,org.kde.plasma.volume
+extraItems=org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.vault,org.kde.plasma.volume,org.kde.plasma.brightness,org.kde.plasma.cameraindicator,org.kde.plasma.printmanager
+knownItems=org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.vault,org.kde.plasma.volume,org.kde.plasma.brightness,org.kde.plasma.cameraindicator,org.kde.plasma.printmanager
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/Empty File,0,45f79697-c833-432d-82e3-91122b90a312,desktop:/WWW_Local,0,45f79697-c833-432d-82e3-91122b90a312
+screenMapping=desktop:/New skel,0,45f79697-c833-432d-82e3-91122b90a312,desktop:/WWW_Local,0,45f79697-c833-432d-82e3-91122b90a312,desktop:/Empty File,0,45f79697-c833-432d-82e3-91122b90a312

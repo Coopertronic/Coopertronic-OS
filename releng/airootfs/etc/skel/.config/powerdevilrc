@@ -1,2 +1,14 @@
+[AC][SuspendAndShutdown]
+AutoSuspendAction=1
+LidAction=1
+
+[Battery][SuspendAndShutdown]
+AutoSuspendAction=1
+LidAction=1
+
 [BatteryManagement]
 BatteryCriticalAction=1
+
+[LowBattery][SuspendAndShutdown]
+AutoSuspendAction=1
+LidAction=1

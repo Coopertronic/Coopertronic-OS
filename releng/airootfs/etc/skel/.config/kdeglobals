@@ -134,6 +134,9 @@ Sort reversed=false
 Speedbar Width=138
 View Style=DetailTree
 
+[PreviewSettings]
+MaximumRemoteSize=0
+
 [WM]
 activeBackground=26,30,36
 activeBlend=26,30,36

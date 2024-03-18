@@ -69,6 +69,9 @@ ToolBarsMovable=Disabled
 CompletionMode=1
 History=auda,ark,kate,rema,mpv,ink,aud,vlc,avide,audacit,kat,spe
 
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail
+
 [Search]
 Location=Everywhere
 What=Content
