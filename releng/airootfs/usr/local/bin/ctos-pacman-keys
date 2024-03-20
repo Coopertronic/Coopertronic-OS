@@ -1,0 +1,11 @@
+#!/bin/bash
+
+## Fixies pacman keys
+
+sudo rm -rf /etc/pacman.d/gnupg/ || echo "Directory not found"
+sudo pacman-key --init
+sudo pacman-key --populate archlinux
+sudo pacman-key --recv-keys 515A202B640F3678
+sudo pacman-key --lsign 515A202B640F3678
+sudo pacman-key --populate ctos
+sudo pacman -Syy

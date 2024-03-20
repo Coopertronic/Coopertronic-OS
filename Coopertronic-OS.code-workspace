@@ -4,25 +4,13 @@
 			"path": "."
 		},
 		{
-			"path": "../pkgBuilds"
-		},
-		{
 			"path": "../ctos-calamares-settings"
 		},
 		{
-			"path": "../ctos-side-repo"
+			"path": "../useful-bash-functions"
 		},
 		{
-			"path": "../git-helper"
-		},
-		{
-			"path": "../neon-knights-kde-pasma"
-		},
-		{
-			"path": "../ctos-kde-splash"
-		},
-		{
-			"path": "../ctos-wallpapers"
+			"path": "../build4repo"
 		}
 	],
 	"settings": {}
