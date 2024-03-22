@@ -1,6 +1,6 @@
 NAME="Coopertronic-OS"
 PRETTY_NAME="Coopertronic OS"
-ID=ctos-v0.087
+ID=ctos-v0.088
 BUILD_ID=rolling
 ANSI_COLOR="38;2;23;147;209"
 HOME_URL="https://coopertronic.co.uk/"
