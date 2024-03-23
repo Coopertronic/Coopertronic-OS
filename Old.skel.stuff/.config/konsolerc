@@ -1,0 +1,21 @@
+[Desktop Entry]
+DefaultProfile=Profile 1.profile
+
+[General]
+ConfigVersion=1
+
+[MainWindow]
+1280x800 screen: Height=515
+1280x800 screen: Width=904
+1280x800 screen: XPosition=188
+1280x800 screen: YPosition=132
+2 screens: Height=465
+2 screens: Width=1912
+2 screens: XPosition=4
+2 screens: YPosition=117
+DVI-I-1 HDMI-1=HDMI-1
+ToolBarsMovable=Disabled
+Virtual-1=Virtual-1
+
+[UiSettings]
+ColorScheme=
