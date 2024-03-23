@@ -185,12 +185,12 @@ ctos-calamares
 #calamares
 #calamares-core-local
 #ctos-calamares-settings
-pamac-all
+#pamac-all
 git-helper
 xdg-user-dirs
 xdg-user-dirs-gtk
-#stacer
-#filelight
+stacer
+filelight
 cpu-x-opencl
 hardinfo-git
 iotop
@@ -200,19 +200,21 @@ nethogs-git
 #freeoffice
 #ttf-ms-fonts
 gnu-free-fonts
-#bombono-dvd
+bombono-dvd
 #vivaldi-snapshot
 #vivaldi-widevine
-#typora
+typora
 #zapzap-linux
-#whatsapp-for-linux
-#packagekit-qt6
+whatsapp-for-linux
+packagekit-qt6
+flatpak
+fwupd
 
 ##  Graphics
-#gimp
-#avidemux-qt
-#obs-studio
-#shotcut
+gimp
+avidemux-qt
+obs-studio
+shotcut
 
 
 ##  Games
