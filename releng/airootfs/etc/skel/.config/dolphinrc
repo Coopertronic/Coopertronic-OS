@@ -1,0 +1,81 @@
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detailsmodesettings.upd:move-content-display
+
+[CompactMode]
+PreviewSize=16
+
+[CreateDialog]
+LastMimeType=application/x-7z-compressed
+
+[DetailsMode]
+PreviewSize=16
+
+[General]
+Version=202
+ViewPropsTimestamp=2021,10,21,22,7,43.682
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[KPropertiesDialog]
+1920x1080 screen: Height=616
+1920x1080 screen: Width=479
+2 screens: Height=616
+2 screens: Width=479
+DP-0 Height 1920x1080=596
+DP-0 Width 1920x1080=495
+DVI-I-0 Height 1600x900=458
+DVI-I-0 Width 1600x900=385
+HDMI-0 DVI-I-0 Height 1920x1080 HDMI-0=496
+HDMI-0 DVI-I-0 Width 1920x1080 HDMI-0=496
+HDMI-0 Height 1920x1080=624
+HDMI-0 Height 1920x1080 HDMI-0=624
+HDMI-0 VGA-0 Height 1024x768 VGA-0=452
+HDMI-0 VGA-0 Height 1920x1080=624
+HDMI-0 VGA-0 Height 1920x1080 HDMI-0=624
+HDMI-0 VGA-0 Width 1024x768 VGA-0=323
+HDMI-0 VGA-0 Width 1920x1080=485
+HDMI-0 VGA-0 Width 1920x1080 HDMI-0=485
+HDMI-0 Width 1920x1080=485
+HDMI-0 Width 1920x1080 HDMI-0=485
+
+[MainWindow]
+DP-0 Height 1920x1080=479
+DP-0 Width 1920x1080=948
+DP-0 Window-Maximized 1024x768=true
+DP-0 Window-Maximized 1280x720=true
+DP-0 Window-Maximized 1600x900=true
+DP-0 Window-Maximized 1920x1080=true
+DP-0 Window-Maximized 800x600=true
+DP-0 XPosition 1920x1080=0
+DP-0 YPosition 1920x1080=29
+DVI-I-0 XPosition 1600x900=0
+DVI-I-0 YPosition 1600x900=29
+HDMI-0 DVI-D-1 Window-Maximized 1280x1024=true
+HDMI-0 DVI-D-1 Window-Maximized 1920x1080=true
+HDMI-0 Height 1920x1080=681
+HDMI-0 Width 1920x1080=1268
+HDMI-0 Window-Maximized 1024x768=true
+HDMI-0 Window-Maximized 1280x720=true
+HDMI-0 Window-Maximized 1600x900=true
+HDMI-0 Window-Maximized 1920x1080=true
+HDMI-0 Window-Maximized 640x480=true
+HDMI-0 XPosition 1920x1080=211
+HDMI-0 YPosition 1920x1080=144
+ToolBarsMovable=Disabled
+
+[Open-with settings]
+CompletionMode=1
+History=auda,ark,kate,rema,mpv,ink,aud,vlc,avide,audacit,kat,spe
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail
+
+[Search]
+Location=Everywhere
+What=Content
+
+[ViewPropertiesDialog]
+DP-0 Height 1920x1080=324
+DP-0 Width 1920x1080=362
