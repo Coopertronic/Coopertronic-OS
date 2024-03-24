@@ -209,6 +209,10 @@ whatsapp-for-linux
 packagekit-qt6
 flatpak
 fwupd
+paru
+debugedit
+fakeroot
+base-devel
 
 ##  Graphics
 gimp
