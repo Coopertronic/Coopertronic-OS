@@ -185,7 +185,7 @@ ctos-calamares
 #calamares
 #calamares-core-local
 #ctos-calamares-settings
-#pamac-all
+pamac-all
 git-helper
 xdg-user-dirs
 xdg-user-dirs-gtk
