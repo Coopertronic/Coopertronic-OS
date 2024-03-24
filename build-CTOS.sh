@@ -3,7 +3,7 @@
 ##  Needed functions - You need the ctos-functions package installed.
 source ctos-functions
 
-#check_root
+check_root
 ## Make default locations.
 STARTUP="/home/matt/ISO_Build"
 IMG_LOC="/home/matt/ISO_Dump"
