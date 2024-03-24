@@ -213,6 +213,8 @@ paru
 debugedit
 fakeroot
 base-devel
+gcc
+tkpacman
 
 ##  Graphics
 gimp
