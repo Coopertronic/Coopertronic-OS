@@ -146,6 +146,7 @@ ctos-wallpapers
 kwidgetsaddons-git
 kwin
 #skanlite
+kate
 
 # Added Packages
 firefox
@@ -196,7 +197,7 @@ hardinfo-git
 iotop
 fail2ban
 nethogs-git
-#visual-studio-code-bin
+code
 #freeoffice
 #ttf-ms-fonts
 gnu-free-fonts
@@ -216,6 +217,12 @@ base-devel
 gcc
 tkpacman
 
+##  QT stuff
+qtcreator
+pyside6
+pyside6-tools
+pyside6-tools-wrappers
+
 ##  Graphics
 gimp
 avidemux-qt
@@ -230,7 +237,7 @@ barrage
 #openarena
 #bass
 scummvm-git
-sword25
+#sword25
 #chromium-bsu
 
 ## For calamares
