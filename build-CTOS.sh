@@ -13,6 +13,8 @@ LOCAL_MOUNT="/home/matt/WWW_Local/"
 
 echo "Clearing old build folder."
 rm -rf ${STARTUP}
+echo "Refresh packages and update."
+pacman -Syyu --no-confirm
 
 ## Compile the ISO image using the ArchISO package.
 if !( mkarchiso -v -w ${STARTUP} -o ${IMG_LOC} ${INSTRUCTIONS} ); then

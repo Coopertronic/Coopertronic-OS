@@ -1,0 +1,9 @@
+[Desktop Entry]
+Categories=System;
+Comment=Presents the Welcome screen for Coopertronic OS
+Exec=welcome
+Icon=org.dragonWG.dragonWG
+Name=Welcome to Coopertronic OS
+StartupNotify=false
+Terminal=false
+Type=Application
