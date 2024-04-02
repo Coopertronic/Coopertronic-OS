@@ -1,23 +1,46 @@
-MenuBar=Disabled
-
 [Desktop Entry]
-DefaultProfile=Profile 1.profile
+DefaultProfile=Profile 3.profile
+
+[Favorite Profiles]
+Favorites=Breath2.profile
 
 [General]
 ConfigVersion=1
 
 [MainWindow]
-1280x800 screen: Height=515
-1280x800 screen: Width=904
-1280x800 screen: XPosition=188
-1280x800 screen: YPosition=132
-2 screens: Height=465
-2 screens: Width=1912
-2 screens: XPosition=4
-2 screens: YPosition=117
-DVI-I-1 HDMI-1=HDMI-1
+1920x1080 screen: Height=137
+1920x1080 screen: Width=614
+1920x1080 screen: XPosition=1302
+1920x1080 screen: YPosition=895
+2 screens: Height=457
+2 screens: Width=1908
+2 screens: XPosition=6
+2 screens: YPosition=573
+DP-0 Height 1920x1080=479
+DP-0 Width 1920x1080=948
+DP-0 XPosition 1920x1080=0
+DP-0 YPosition 1920x1080=0
+DVI-D-0 HDMI-0=HDMI-0
+DVI-I-0 HDMI-0=HDMI-0
+HDMI-0=HDMI-0
+HDMI-0 DVI-I-0=HDMI-0
+HDMI-0 DVI-I-0 Height 1920x1080 HDMI-0=538
+HDMI-0 DVI-I-0 Width 1920x1080 HDMI-0=904
+HDMI-0 DVI-I-0 Window-Maximized 1024x768 DVI-I-0=true
+HDMI-0 DVI-I-0 XPosition 1920x1080 HDMI-0=508
+HDMI-0 DVI-I-0 YPosition 1920x1080 HDMI-0=262
+HDMI-0 VGA-0=HDMI-0
+HDMI-0 VGA-0 Height 1920x1080 HDMI-0=222
+HDMI-0 VGA-0 Width 1920x1080 HDMI-0=745
+HDMI-0 VGA-0 Window-Maximized 1024x768 VGA-0=true
+HDMI-0 VGA-0 XPosition 1920x1080 HDMI-0=6
+HDMI-0 VGA-0 YPosition 1920x1080 HDMI-0=792
+HDMI-0 Window-Maximized 1920x1080=true
+HDMI-0 XPosition 1920x1080=860
+HDMI-0 YPosition 1920x1080=481
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAHIARABvAGMAawAAAAAA/////wAAARUBAAAD+wAAACIAUQB1AGkAYwBrAEMAbwBtAG0AYQBuAGQAcwBEAG8AYwBrAAAAAAD/////AAABfAEAAAMAAAd0AAABmwAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAQAAAOj/////AAAAAAAAAAA=
+StatusBar=Disabled
 ToolBarsMovable=Disabled
-Virtual-1=Virtual-1
 
 [UiSettings]
-ColorScheme=
+ColorScheme=Neon Knights Green
