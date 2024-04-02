@@ -217,6 +217,9 @@ base-devel
 gcc
 tkpacman
 
+##  CTOS welcome
+welcome
+
 ##  QT stuff
 qtcreator
 pyside6
@@ -226,8 +229,8 @@ pyside6-tools-wrappers
 ##  Graphics
 gimp
 avidemux-qt
-obs-studio
-shotcut
+#obs-studio
+#shotcut
 
 
 ##  Games
