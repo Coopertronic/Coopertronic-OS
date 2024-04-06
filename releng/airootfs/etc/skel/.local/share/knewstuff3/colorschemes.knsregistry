@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Neon Knights Green</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>ju1464</author>
+  <homepage>https://store.kde.org/p/1403413</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>4382</downloads>
+  <installedfile>/home/matt/.local/share/color-schemes/NeonKnightsGreen.colors</installedfile>
+  <id>1403413</id>
+  <releasedate>2020-07-14</releasedate>
+  <summary>Color Scheme for &lt;a href="https://www.pling.com/p/1320548/" target="_blank" rel="nofollow">Neon Knights Green&lt;/a> KDE Plasma.&lt;br />
+&lt;br />
+&lt;br />
+&lt;strong>Donations:&lt;/strong>&lt;br />
+&lt;br />
+If you like my work feel free to &lt;a href="https://paypal.me/ju1464" target="_blank" rel="nofollow">donate&lt;/a>.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/51/30/30/1403413/defa7f2c3355ca0428e5d17bf4bb476b6dcd.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/51/30/30/1403413/defa7f2c3355ca0428e5d17bf4bb476b6dcd.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTQ3NjcwMjYiLCJvIjoiMSIsInMiOiI1ZTBhYmI2MTE3ZGNkOGZlYTc3ZWM0YjNmZWJkNTllZWRhYjUzNjIxMGE3MmQ2YjdhOTVjODM4YTQ3M2M5MTVhMGYyNjMxZDllOGE4YmU4YTY4MzI0YzcwMjE2Y2U0MzliOWYwOGZhM2E5MjJkMjg0ODI1ODNmMDhjMGE5ZDhkMSIsInQiOjE3MTI0MzY5MDUsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi4yMi45NS4xODkifQ.ZVElW30cqB_6jIqiSI97eiTJG8OeYTIB03tl9ZtIZHA/NeonKnightsGreen.colors</payload>
+  <tags>gplv3,colorscheme,kde,linux,unix,theme,original-product,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

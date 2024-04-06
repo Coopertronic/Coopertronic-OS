@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Neon Knights KDE</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>ju1464</author>
+  <homepage>https://store.kde.org/p/1397764</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>13837</downloads>
+  <installedfile>/home/matt/.local/share/icons/Neon-Knights-KDE/*</installedfile>
+  <id>1397764</id>
+  <releasedate>2020-06-26</releasedate>
+  <summary>&lt;span style="color: #164DA0;">&lt;h2>&lt;strong>Support KDE color scheme.&lt;/strong>&lt;/h2>&lt;/span>&lt;br />
+&lt;br />
+These icons are created to work on KDE-Plasma desktop. If you want to use it on other desktops, better download from &lt;strong>&lt;a href="https://www.pling.com/p/1313081/" target="_blank"...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/51/30/30/1397764/e7a46d84e631baecab88e25f6e7fe627f019.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/51/30/30/1397764/e7a46d84e631baecab88e25f6e7fe627f019.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTMxODk0ODgiLCJvIjoiMSIsInMiOiIxNmE0Yjk1ZWIwNGQzYmY2Mjk4OTgzZThmODM4NjlkZWYyYjVlOTE0ZTg2MmU5N2JjNmY1YzExMTc0MzViYzNhMjA4ZjYxNTdkMGQxMWE1MTBkNThjOWI2Y2VlYjg0NGViYmRjMWQ0NTk0YzVkMjdmMTNlNzczYTBjZTRmMjllZCIsInQiOjE3MTI0MzcxMDMsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi4yMi45NS4xODkifQ.lP2hVI5vmIkatjmlZPeIa3rfg4kgT8tzyO6iGl6fRr4/Neon-Knights-KDE.tar.xz</payload>
+  <tags>unix,original-product,icon-theme,linux,colorscheme,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

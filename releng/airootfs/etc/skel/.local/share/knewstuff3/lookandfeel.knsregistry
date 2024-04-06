@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="722">
+  <name>Curved Volatile Style</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>linlinxza</author>
+  <homepage>https://store.kde.org/p/1574341</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>310</downloads>
+  <installedfile>/home/matt/.local/share/plasma/look-and-feel/CurvedVolatile/</installedfile>
+  <id>1574341</id>
+  <releasedate>2024-04-02</releasedate>
+  <summary>This is my attempt of porting one of my favorite custom themes from Windows 7. Sort of that is. I just took some pngs from this style. Found there: https://www.deviantart.com/steel89/art/Cur7ed-Beta-Visual-Style-185687277&lt;br />
+&lt;br />
+What I have is is a combination of Volatile and the Cur7ed...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/56/51/88/1574341/ab75c69c9f8e79f7f2087c685fb276e6baec0610eb218131ea1df170f28bba34253c1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/56/51/88/1574341/ab75c69c9f8e79f7f2087c685fb276e6baec0610eb218131ea1df170f28bba34253c1.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTIwMjIzOTMiLCJvIjoiMSIsInMiOiJiYzY2OWNhODNlYjg4ODFjY2E4YTMwNjZiYWEwZThmNTRiM2JiYTI1YzcwMTY1YjEyMTQ2ODkxYjdkYTcyMGE0NzRmNDRlN2I3MGJlMjkxZDI2MGYyZTM5ZGU3MWQ3OWYzMDBjYjY1ZTEwNTQ3NjI0YTRhMWQ4MTgyZTUxOWI4YiIsInQiOjE3MTI0MzY0ODcsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi4yMi45NS4xODkifQ.bjZwy74qAQPaNN_ktYXXoe_kV-WqRwZ0H4yoGpn47zs/CurvedVolatile.tar.gz</payload>
+  <tags>kde,linux,aero,theme,unix,plasma,original-product,clear,glassy,gloss,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="719">
+  <name>Wisps [Burn-My-Windows]</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>schneegans</author>
+  <homepage>https://store.kde.org/p/2133824</homepage>
+  <licence></licence>
+  <version>41</version>
+  <rating>50</rating>
+  <downloads>534</downloads>
+  <installedfile>/home/matt/.local/share/kwin/effects/kwin4_effect_wisps/</installedfile>
+  <id>2133824</id>
+  <releasedate>2024-02-29</releasedate>
+  <summary>Let your windows be carried away to the realm of dreams by these little fairies! This is the KWin port of the Wisps effect of the Burn-My-Windows GNOME Shell extension. &lt;a href="https://github.com/Schneegans/Burn-My-Windows#%EF%B8%8F-installation-kwin" target="_blank" rel="nofollow">You can find a list of all Burn-My-Windows effects which are currently available for KWin on GitHub.&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>This effect requires at least KWin 5.25.0. Also, if the color picker widgets in the settings of any of the Burn-My-Windows effects do not work, you may have to install the package "libkf5widgetsaddons-dev" (Kubuntu, KDE Neon, etc) or "kwidgetsaddons-devel" (Fedora, OpenSuse, etc).&lt;/strong> If you encounter a bug or have a feature request, please open an issue on &lt;a href="https://github.com/Schneegans/Burn-My-Windows/issues" target="_blank" rel="nofollow">GitHub&lt;/a>!&lt;br />
+&lt;br />
+&lt;em>IMHO, there are many things which could be done to improve the KWin port of the extension. However, since I am not using KDE as a daily driver, I would appreciate it very much if someone volunteers to work on this port! I am happily receiving pull requests...&lt;/em>&lt;br />
+&lt;br />
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/img/00/00/67/07/53/2133824/wisps.gif</preview>
+  <previewBig>https://images.pling.com/img/00/00/67/07/53/2133824/wisps.gif</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MDkyMTI2OTIiLCJvIjoiMSIsInMiOiI1ZTM1OWE2MGMzMDEwYjAyNmRjMDRiZDlkMDI3MjA3NWQwMGY3YTI4NzRlNGQ1NDc5YWY3NmFhMTMyNDg1ODU0ZWFmMzJkOWMzYTU5MDQ3ZjFkZGU2YWIzMWViYTEyYjc3YjgzMjM1OTY4YjlmNjU1YzBjOTk4MzYwYWZhNjllMiIsInQiOjE3MTI0Mzk5NzQsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi4yMi45NS4xODkifQ.jCgL8GqPn2gYfYrETHexF9EAdQxJ46GdK3k0woYI0sc/kwin4-effect-wisps.tar.gz</payload>
+  <tags>original-product,unix,linux,gplv3,animation</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="719">
+  <name>Incinerate [Burn-My-Windows]</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>schneegans</author>
+  <homepage>https://store.kde.org/p/2133817</homepage>
+  <licence></licence>
+  <version>41</version>
+  <rating>50</rating>
+  <downloads>803</downloads>
+  <installedfile>/home/matt/.local/share/kwin/effects/kwin4_effect_incinerate/</installedfile>
+  <id>2133817</id>
+  <releasedate>2024-02-29</releasedate>
+  <summary>This is the KWin port of the Incinerate effect of the Burn-My-Windows GNOME Shell extension. &lt;a href="https://github.com/Schneegans/Burn-My-Windows#%EF%B8%8F-installation-kwin" target="_blank" rel="nofollow">You can find a list of all Burn-My-Windows effects which are currently available for KWin on GitHub.&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>This effect requires at least KWin 5.25.0. Also, if the color picker widgets in the settings of any of the Burn-My-Windows effects do not work, you may have to install the package "libkf5widgetsaddons-dev" (Kubuntu, KDE Neon, etc) or "kwidgetsaddons-devel" (Fedora, OpenSuse, etc).&lt;/strong> If you encounter a bug or have a feature request, please open an issue on &lt;a href="https://github.com/Schneegans/Burn-My-Windows/issues" target="_blank" rel="nofollow">GitHub&lt;/a>!&lt;br />
+&lt;br />
+&lt;em>IMHO, there are many things which could be done to improve the KWin port of the extension. However, since I am not using KDE as a daily driver, I would appreciate it very much if someone volunteers to work on this port! I am happily receiving pull requests...&lt;/em>&lt;br />
+&lt;br />
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/img/00/00/67/07/53/2133817/incinerate.gif</preview>
+  <previewBig>https://images.pling.com/img/00/00/67/07/53/2133817/incinerate.gif</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MDkyMTI2NTQiLCJvIjoiMSIsInMiOiI2MWE3MWRlMDk2NmE2OWU3NjNmNzVlODY2NWNiYzhkODM1ZTM2NDAwNGJiMzA0ZWQ3ODI1MDRjYmU1NDk3MjdkYTk5NTQzOGYyYmY5YjBhMDc3OGE3ODVhYjg0ZmUzNjE1ZDU1ZDIwNzM0MzExMjBjYjRmOWE5NTc3NGRkMzY0YSIsInQiOjE3MTI0Mzk5OTEsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi4yMi45NS4xODkifQ._BSaoJpdPEQiqtJ7lI1pbnAJEwmZw5E94Do_DXM0IFw/kwin4-effect-incinerate.tar.gz</payload>
+  <tags>linux,animation,unix,original-product,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="719">
+  <name>TV Glitch [Burn-My-Windows]</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>schneegans</author>
+  <homepage>https://store.kde.org/p/2133819</homepage>
+  <licence></licence>
+  <version>41</version>
+  <rating>50</rating>
+  <downloads>758</downloads>
+  <installedfile>/home/matt/.local/share/kwin/effects/kwin4_effect_tv_glitch/</installedfile>
+  <id>2133819</id>
+  <releasedate>2024-02-29</releasedate>
+  <summary>This is the KWin port of the TV-Glitch effect of the Burn-My-Windows GNOME Shell extension. Add some intentional graphics issues to your windows! &lt;a href="https://github.com/Schneegans/Burn-My-Windows#%EF%B8%8F-installation-kwin" target="_blank" rel="nofollow">You can find a list of all...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/img/00/00/67/07/53/2133819/tv-glitch.gif</preview>
+  <previewBig>https://images.pling.com/img/00/00/67/07/53/2133819/tv-glitch.gif</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MDkyMTI1NjMiLCJvIjoiMSIsInMiOiJhOWJhNTg1M2FkYjI2YmMwZjZmZjg3OWY5MjRhZDEwOTM4ODUxYjVmNjkwZGJlNjgzYjVmZjU2NDhjZmNkZWE0NTlhZTAwN2I0ZDFlZWM3N2E3ZmJlNDUyN2JjMWJmN2I3YjI1ZWM3OTkwM2VkZjVhYzI2Y2MxZTg0MTkwNTljYyIsInQiOjE3MTI0Mzk5OTMsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi4yMi45NS4xODkifQ.XIha5cDQosBRZilFvu-_Q2BhQD89KDulfeZBdXxG0Rw/kwin4-effect-tv-glitch.tar.gz</payload>
+  <tags>gplv3,linux,original-product,animation,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

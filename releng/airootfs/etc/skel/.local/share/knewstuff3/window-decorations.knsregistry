@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="717">
+  <name>Curved Volatile Aurorae</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>linlinxza</author>
+  <homepage>https://store.kde.org/p/1574340</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>267</downloads>
+  <installedfile>/home/matt/.local/share/aurorae/themes/CurvedVolatile/*</installedfile>
+  <id>1574340</id>
+  <releasedate>2024-04-02</releasedate>
+  <summary>This window theme is a bit of a port from the Cur7ed custom theme on Windows 7 found here: https://www.deviantart.com/steel89/art/Cur7ed-Beta-Visual-Style-185687277</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/56/51/88/1574340/740e9ee3f420265ce2f1085132555dbe098bac450153568f2e3d81edc166abde885c1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/56/51/88/1574340/740e9ee3f420265ce2f1085132555dbe098bac450153568f2e3d81edc166abde885c1.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTIwMjQ2NTYiLCJvIjoiMSIsInMiOiI0ZWJiMmY1NDQyYmIwZGRjODQ5NmUyYWYzMTY3MzJkNjBlYjk0YWZkMGM3ZWFmOTRhNWVlNzY1ZDdkNzU0YjVkODE4ZmE3OWQ1OGY2YTk1MTRlOWJjNWYzNGFmNmQ4ZjVmYWQ0Yjg1NDY0ZTg5YTVhOTcxYTU4OTk5NTVjYjBhYiIsInQiOjE3MTI0MzY0ODgsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi4yMi45NS4xODkifQ.KrXQ1YqhwhhsGCkLbPN0u4N62MCi9kbys5TSlkDIKiU/CurvedVolatile-aurorae.tar.gz</payload>
+  <tags>unix,theme,aero,gplv3,glass,glossy,efi,plasma,linux,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="717">
+  <name>Nostrum</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>phob1an</author>
+  <homepage>https://store.kde.org/p/2138872</homepage>
+  <licence></licence>
+  <version>2.0</version>
+  <rating>50</rating>
+  <downloads>1841</downloads>
+  <installedfile>/home/matt/.local/share/aurorae/themes/nostrum/*</installedfile>
+  <id>2138872</id>
+  <releasedate>2024-03-18</releasedate>
+  <summary>Future retro! Part of global theme.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/44/12/32/2138872/nostaurnew.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/44/12/32/2138872/nostaurnew.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTA3OTk0OTIiLCJvIjoiMSIsInMiOiI3MGU3MjY1ZGUzMjFhYWNkNzBhOWY3N2UxYzkwMmJjY2E1M2RmOWI4NzFmODMzMjMzMmNkYWEzMWY2ZTc4MzFlYmI4OTUzYzM5NDc4OWQxZjhhOTIwNGE2MTkwZTY4NzcyYTc3NWU3YjA1ZWIzY2M5MDhhN2Y1NDAxY2Q3YWYzZSIsInQiOjE3MTI0MzcwNjQsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi4yMi45NS4xODkifQ.0lT9e2ScpNfd2Ur7a9asctNNRLGyvAAG1SA1ItxbUyk/nostrum-aurorae-2.tar.xz</payload>
+  <tags>linux,kde,theme,unix,futuretro,gplv2-later,original-product,plasma,retro</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

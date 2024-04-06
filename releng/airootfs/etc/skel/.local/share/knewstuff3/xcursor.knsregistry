@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="107">
+  <name>Maya Serie</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>markitos66</author>
+  <homepage>https://store.kde.org/p/999900</homepage>
+  <licence></licence>
+  <version>2.0.0</version>
+  <rating>76</rating>
+  <downloads>21689</downloads>
+  <installedfile>/home/matt/.icons/Maya-Black/*</installedfile>
+  <id>999900</id>
+  <releasedate>2014-12-17</releasedate>
+  <summary>&lt;em>2014 Dec 17- Thanks for the first ten thousand downloads !!&lt;/em>&lt;br />
+&lt;br />
+&lt;em>&lt;strong>Maya Serie for Righties&lt;/strong>&lt;/em> X11 mouse theme with available cursors size: 24, 32, 40, 48, 56 and 64 pixels. Available couple colours: Black (black pure, gray 6), Blue (accent blue, accent blue...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/24/20/37/999900/166465-11.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/24/20/37/999900/166465-11.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE0NjA3MzUyMDciLCJvIjoiMSIsInMiOiJmYjQyMGE1ZmRmNGIxN2Q5NWZkNTAzNTZmMTczODE1MTc3ODI4MTk1NjhhYzE3ODhhMGEyY2MyNDY5OThhNmVmNmU3YmY2OTRlM2YxYWQ4MWJiMTFlNDM4NjM4M2U3NjBlYzg2NjkwYjY2YTc2YThlMGFmODMzNDE0MTgzYzFjYyIsInQiOjE3MTI0MzczMDUsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi4yMi45NS4xODkifQ.khJ2DitS_ACdwojpyXsjlM_7MH4_PCB-P1dZWkKYLMY/166465-Maya-Black.tgz</payload>
+  <tags>unix,linux,cursor</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>-C Series Cursros</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>darkeye90</author>
+  <homepage>https://store.kde.org/p/1261811</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>76</rating>
+  <downloads>25456</downloads>
+  <installedfile>/home/matt/.icons/Dark-C-48/*</installedfile>
+  <id>1261811</id>
+  <releasedate>2022-08-29</releasedate>
+  <summary>Definition : &lt;br />
+===============&lt;br />
+Silver-c is a cursor's theme inspired by Faenza-Darkest status icons.&lt;br />
+Dark-C is a modified version of silver-c but in dark colors and small size.&lt;br />
+Light-C is a modified version of Dark-C but in light colors.&lt;br />
+Hack-C is is a modified...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/34/54/16/1261811/logo-all-c-series-2.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/34/54/16/1261811/logo-all-c-series-2.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjE3NzE2NTQiLCJvIjoiMSIsInMiOiJhZWI3NGRlYzI3YmEwZmE5MzU4OTUyN2Q2ZGFhMGZjYTM2ODZhMWJhODcyY2M0MzY3MWEzNTE0ZWFhMTkzZWNhMTVjMWNkMmM2ZWZmMTk3NmVkODVjMjk5NDI5OThmOGZiZTdhZWE1ZDFlNGNjODA0NDM3Mzk5ODA1ZDU4MDk3MSIsInQiOjE3MTI0MzcyNzAsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi4yMi45NS4xODkifQ.y2qeEp_GgWKzywcdDIoPuDT9phtyycrrGJ7ZL-WtqkA/Dark-C-48.tar.gz</payload>
+  <tags>unix,light,hack,linux,arch-package,dark,cursor,cc-by-sa,original-product,silver</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>Oxygen Matrix Green Cursor</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>xeno-idaltu</author>
+  <homepage>https://store.kde.org/p/1197403</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>76</rating>
+  <downloads>22434</downloads>
+  <installedfile>/home/matt/.icons/Oxygen 14 Matrix Green/*</installedfile>
+  <id>1197403</id>
+  <releasedate>2017-10-31</releasedate>
+  <summary>One of the thirty-seven cursors that came in KDE4, can also be used for KDE5 Plasma.&lt;br />
+&lt;br />
+This is the original work of Riccardo Iaconelli and KDE's Oxygen Project.&lt;br />
+&lt;br />
+14/37&lt;br />
+&lt;br />
+&lt;br />
+* I updated some of the names for better search results.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/47/95/09/1197403/bfd1aaa5b937dcbe5302400773af40245e341.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/47/95/09/1197403/bfd1aaa5b937dcbe5302400773af40245e341.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1MDk0NjA5MTEiLCJvIjoiMSIsInMiOiI2ZWU0ZWY3ZTQ3NTBjOWU3ZWFhNzg2OWE3OGY0ODA0OGY1NGM1MTkxYWY0ZjYxYTQ0ZWU5YjBiNTM1YWU4OTY4Yjk5ODg5MDE2ZWUwZTA2OWY5MWZjNzk3NDI3ZjYwOWQxNmE1OGE4ZDEzNWZiNTcyZGUwOTMxYjQ4ZTM0NzNiZCIsInQiOjE3MTI0MzcyNzYsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi4yMi45NS4xODkifQ.GEKz316Ajbh4IPjjU3MeUW2Nh1fDCQzJJhMYCEt9BzU/Oxygen 14 Matrix Green.tar.gz</payload>
+  <tags>unix,linux,cursor</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>Hackend</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>novamax</author>
+  <homepage>https://store.kde.org/p/1393518</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>3348</downloads>
+  <installedfile>/home/matt/.icons/Hackend/*</installedfile>
+  <id>1393518</id>
+  <releasedate>2022-04-08</releasedate>
+  <summary>Hackend is a metrix dot green cursor theme...tested in ubuntu 17.1.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/51/90/96/1393518/a995e5c39fdbead48d842e9154754f9b076e1.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/51/90/96/1393518/a995e5c39fdbead48d842e9154754f9b076e1.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDkzODM3OTgiLCJvIjoiMSIsInMiOiI1NjM4YzE2NDM2ODRmNjJlMzBiNzA1OWI2NmVlNWM2MTYwN2VmNjZlM2ZhZWQ0YmY0Y2QxMGFjNDZkYjJkMmViN2ZiMTc4ZjQzODY5Y2FmNmZmZTdhZDczODliMmJkZWZmODgwYjc1ZThhMWU5YTJlOGMxN2Y2MTdkYmRiZTQwNyIsInQiOjE3MTI0MzcyNjAsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi4yMi45NS4xODkifQ.pE4N8OkDW-4OWrB_68VJqJdFs-JHHVJPNlWul1m5TaA/Hackend 2022.zip</payload>
+  <tags>cursor,gplv3,unix,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>Rezo serie for right handed</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>markitos66</author>
+  <homepage>https://store.kde.org/p/999857</homepage>
+  <licence></licence>
+  <version>1.01.00</version>
+  <rating>73</rating>
+  <downloads>3705</downloads>
+  <installedfile>/home/matt/.icons/RezoBlack/*</installedfile>
+  <id>999857</id>
+  <releasedate>2014-05-20</releasedate>
+  <summary>&lt;em>&lt;strong>Rezo serie for right handed &lt;/strong>&lt;/em>: Black, Blue, Green, Orange, Red and White. I am offering the full serie for right and left handed, with property multi sized and also as pack for those who don't like or have trouble with mouse themes multi sized.&lt;br />
+&lt;br />
+Is a X11...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/img/00/00/24/20/37/999857/164797-11.gif</preview>
+  <previewBig>https://images.pling.com/img/00/00/24/20/37/999857/164797-11.gif</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE0NjA3MzUwOTMiLCJvIjoiMSIsInMiOiIwOTAxNmViNWNiZWNhOGVkOTc2NjM1MmQwYTcyMWRkMjVmNzdjMTE5YjY3N2IwM2U3MWUxMzFjYThiNTc2MThjYjgyZDJhODk3MjY4ZjhjYzU2ZGNjMTM4Yjc0ODczYjU4MDcwMmVhMTNiMGNjZmE3M2I4NDI5NzgyZTEzMzU5ZiIsInQiOjE3MTI0MzczMTMsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi4yMi45NS4xODkifQ.jY_kZQyh4QYG5IuU4Pm5SItUKg0ZdQ2zFY3Nm2AbrVM/164797-RezoBlack.tgz</payload>
+  <tags>unix,linux,cursor</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>Neon Knights</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>ju1464</author>
+  <homepage>https://store.kde.org/p/1320469</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>57</rating>
+  <downloads>12225</downloads>
+  <installedfile>/home/matt/.local/share/plasma/desktoptheme/Neon-Knights/</installedfile>
+  <id>1320469</id>
+  <releasedate>2020-07-02</releasedate>
+  <summary>&lt;span style="color: #164DA0;">&lt;h2>&lt;strong>Support KDE color scheme.&lt;/strong>&lt;/h2>&lt;/span>&lt;br />
+&lt;br />
+Neon knights is a dark blue and gray theme mixed with bright colors, creating a beautiful visual contrast.&lt;br />
+&lt;br />
+&lt;br />
+&lt;strong>These are part of Neon Knights for KDE Plasma...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/51/30/30/1320469/11ae63f2fc697060a7d14e3792133d0ce31c.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/51/30/30/1320469/11ae63f2fc697060a7d14e3792133d0ce31c.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTM3NDQ2NTMiLCJvIjoiMSIsInMiOiI2ZmIyNjdkNGM3YmE4MWZjZmM5NDUyYTJkMTY5MWEwYjg0MmVhNTA5MTFlMDY5NDc0NmM2NTEwMzZhYWVkNTQ5NGY4NWNhOWMyODg0MTdmZjQ4ZjMwZTg3ODBiNTlmZjFhYTNmNGM1ODMwMmNjYmU1MGZiZDcyZDJmMjQyNTZkMyIsInQiOjE3MTI0MzY4NjYsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi4yMi45NS4xODkifQ.3aHjVB-nroX3zl-mKGAjbBRozipa-GO6AAJR9_ZcAbc/Neon-Knights.tar.gz</payload>
+  <tags>unix,theme,linux,kde,plasma,neon,original-product,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Curved Volatile Style</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>linlinxza</author>
+  <homepage>https://store.kde.org/p/1574339</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>57</rating>
+  <downloads>20657</downloads>
+  <installedfile>/home/matt/.local/share/plasma/desktoptheme/CurvedVolatile/</installedfile>
+  <id>1574339</id>
+  <releasedate>2021-08-15</releasedate>
+  <summary>This is my attempt of porting one of my favorite custom themes from Windows 7. Sort of that is. I just took some pngs from this style. Found there: https://www.deviantart.com/steel89/art/Cur7ed-Beta-Visual-Style-185687277&lt;br />
+&lt;br />
+What I have is is a combination of Volatile and the Cur7ed theme. With all these flat themes, I really missed the appeal of glossy transparency. The menu icon I sort of made. I got a copy of KDE Neon's icon and put a glassy effect to it. ;)&lt;br />
+&lt;br />
+Icons I am using are from here if interested: https://store.kde.org/p/1333537/</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/56/51/88/1574339/ab75c69c9f8e79f7f2087c685fb276e6baecc4910817eda551ac2fdf4e7a1af6cbb91.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/56/51/88/1574339/ab75c69c9f8e79f7f2087c685fb276e6baecc4910817eda551ac2fdf4e7a1af6cbb91.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Mjg5ODY3MjAiLCJvIjoiMSIsInMiOiJkNDcyYWZlNmQ1YmEyZjJjNzYxMmFhYzI3YzVmMGVlMDhmYWU1ZWQwOThjZmZiZmRkYzE0MGE0OWYxY2RmMDViMDA1NTA5Yzk1NzljMmUzNTNhYmEyY2MyMTc4NmZhM2Y0NjY4MDAxNTc1Zjc4MDQyYzVmNjBiYWNmZTUyOTA3ZiIsInQiOjE3MTI0MzY0ODksInN0ZnAiOm51bGwsInN0aXAiOiI5Mi4yMi45NS4xODkifQ.rCdl0jqiYNw8vHTG1XvjcMraFyXBjZhcgZLQ3UaZgvY/CurvedVolatile.tar.gz</payload>
+  <tags>clear,efi,glass,glossy,gplv3,aero,kde,linux,plasma,theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

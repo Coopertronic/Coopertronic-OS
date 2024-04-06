@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="135">
+  <name>Neon Knights</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>ju1464</author>
+  <homepage>https://store.kde.org/p/1301852</homepage>
+  <licence></licence>
+  <version>2.0</version>
+  <rating>75</rating>
+  <downloads>8204</downloads>
+  <installedfile>/home/matt/.themes/Neon_Knights_Green/*</installedfile>
+  <id>1301852</id>
+  <releasedate>2020-06-13</releasedate>
+  <summary>Neon knights is a dark blue and gray theme mixed with bright colors, creating a beautiful visual contrast. &lt;br />
+Based on &lt;a href="https://github.com/nana-4/materia-theme" target="_blank" rel="nofollow">Materia Design&lt;/a>.&lt;br />
+&lt;br />
+&lt;br />
+&lt;strong>Installation:&lt;/strong>&lt;br />
+&lt;br />
+Extract...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/51/30/30/1301852/bde581a7373f8bfd6c47f4801c66c458822e.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/51/30/30/1301852/bde581a7373f8bfd6c47f4801c66c458822e.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTIwODY3MzAiLCJvIjoiMSIsInMiOiI3ZjhmODM4Y2IyODMxY2FkZTc4MWZjODAzYTFiNWYxOTdlNjViN2I4ZmNmYjU3YTc3Y2M1NDVlZGY5NTFkNWRlZGRlYTdjMmVlMDVmMDVkYzFjZjcyNmNjNjUyNGVjM2U2ZThlNGJiYjEyOTZkYTk5ZjFlMTBlMDIyNDdjZDQxNiIsInQiOjE3MTI0MzY5NTEsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi4yMi45NS4xODkifQ.1CfFxtw9V9iQi1yzBbRj8rcT4Tc82Ko8o-zA16khTaY/Neon_Knights_Green.tar.gz</payload>
+  <tags>unix,theme,gtk2,linux,metacity,original-product,gplv3,gnome</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

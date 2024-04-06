@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg6"
+   version="1.1"
+   sodipodi:docname="plasmavault.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1136"
+     inkscape:window-height="480"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="0.71186441"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <defs
+     id="defs3051">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Highlight {
+        color:#ebebeb;
+      }
+    </style>
+  </defs>
+  <path
+     d="M 3,2 C 2.446,2 2,2.446 2,3 v 9.75 C 2,13.443 2.446,14 3,14 h 10 c 0.554,0 1,-0.557 1,-1.25 V 4 A 0.998,0.998 0 0 0 13,3 H 8 L 7,2 Z"
+     id="path855"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-Highlight"
+     style="fill:currentColor" />
+  <path
+     d="M 10.5,7 A 1.5,1.5 0 0 0 9,8.5 1.5,1.5 0 0 0 9.006,8.602 H 9 V 9 H 8 v 4 h 5 V 9 H 12 V 8.549 A 1.5,1.5 0 0 0 12,8.5 1.5,1.5 0 0 0 10.5,7 Z m 0,1 A 0.5,0.5 0 0 1 11,8.5 0.5,0.5 0 0 1 10.998,8.531 H 11 V 9 H 10 V 8.531 h 0.002 A 0.5,0.5 0 0 1 10,8.5 0.5,0.5 0 0 1 10.5,8 Z M 10,10 h 1 v 2 h -1 z"
+     id="rect826"
+     inkscape:connector-curvature="0"
+     style="opacity:0.5" />
+</svg>
