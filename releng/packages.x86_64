@@ -139,7 +139,7 @@ plasma-disks
 plasma-firewall
 xdg-desktop-portal-kde
 sddm
-neon-knights-kde-pasma
+#neon-knights-kde-pasma
 #ctos-kde-splash
 #ctos-sddm-theme
 ctos-wallpapers
@@ -183,8 +183,6 @@ leafpad
 chntpw
 plymouth
 ctos-calamares
-#calamares
-#calamares-core-local
 ctos-calamares-settings
 #pamac-all
 git-helper
@@ -197,7 +195,7 @@ hardinfo-git
 iotop
 fail2ban
 nethogs-git
-code
+#code
 #freeoffice
 #ttf-ms-fonts
 gnu-free-fonts
@@ -205,7 +203,7 @@ gnu-free-fonts
 #vivaldi-widevine
 typora
 #zapzap-linux
-whatsapp-for-linux
+#whatsapp-for-linux
 packagekit-qt6
 flatpak
 fwupd
@@ -226,8 +224,8 @@ pyside6-tools
 pyside6-tools-wrappers
 
 ##  Graphics
-gimp
-avidemux-qt
+#gimp
+#avidemux-qt
 #obs-studio
 #shotcut
 #bombono-dvd
