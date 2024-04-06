@@ -11,6 +11,12 @@
 		},
 		{
 			"path": "../build4repo"
+		},
+		{
+			"path": "../ctos-pkgbuilds"
+		},
+		{
+			"path": "../ctos-side-repo"
 		}
 	],
 	"settings": {}
