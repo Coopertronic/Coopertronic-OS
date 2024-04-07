@@ -140,9 +140,6 @@ plasma-firewall
 xdg-desktop-portal-kde
 sddm
 #neon-knights-kde-pasma
-#ctos-kde-splash
-#ctos-sddm-theme
-ctos-wallpapers
 kwidgetsaddons-git
 kwin
 #skanlite
@@ -180,8 +177,6 @@ neofetch
 leafpad
 chntpw
 plymouth
-ctos-calamares
-ctos-calamares-settings
 #pamac-all
 git-helper
 xdg-user-dirs
@@ -212,8 +207,14 @@ base-devel
 gcc
 tkpacman
 
-##  CTOS welcome
+##  CTOS stuff
 welcome
+ctos-wallpapers
+ctos-calamares
+ctos-calamares-settings
+ctos-desktop-style
+#ctos-kde-splash
+#ctos-sddm-theme
 
 ##  QT stuff
 #qtcreator
