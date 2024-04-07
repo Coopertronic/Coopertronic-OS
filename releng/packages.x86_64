@@ -216,6 +216,19 @@ ctos-desktop-style
 #ctos-kde-splash
 #ctos-sddm-theme
 
+##  LXqt install
+lxqt
+xdg-utils
+ttf-freefont
+libstatgrab
+libsysstat
+lm_sensors
+#network-manager-applet
+oxygen-icons
+pavucontrol-qt
+xscreensaver
+archlinux-wallpaper
+
 ##  QT stuff
 #qtcreator
 #pyside6
