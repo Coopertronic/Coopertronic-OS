@@ -22,6 +22,7 @@ pacman-key --recv-key  D6D6FAA25E9A3E4ECD9FBDBEC93AF1698685AD8B
 pacman-key --lsign-key D6D6FAA25E9A3E4ECD9FBDBEC93AF1698685AD8B
 pacman-key --populate archlinux
 pacman-key --populate ctos
+pacman-key --populate trinity
 pacman -Syy
 #pacman -S ctos-calamares-settings --overwrite '*' --noconfirm
 systemctl enable sddm
