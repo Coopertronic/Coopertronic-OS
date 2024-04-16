@@ -206,6 +206,7 @@ fakeroot
 base-devel
 gcc
 tkpacman
+os-prober
 
 ##  CTOS stuff
 welcome
