@@ -4,8 +4,11 @@
 
 sudo rm -rf /etc/pacman.d/gnupg/ || echo "Directory not found"
 sudo pacman-key --init
-sudo pacman-key --populate archlinux
 sudo pacman-key --recv-keys 515A202B640F3678
 sudo pacman-key --lsign 515A202B640F3678
+sudo pacman-key --recv-key D6D6FAA25E9A3E4ECD9FBDBEC93AF1698685AD8B
+sudo pacman-key --lsign-key D6D6FAA25E9A3E4ECD9FBDBEC93AF1698685AD8B
+sudo pacman-key --populate archlinux
 sudo pacman-key --populate ctos
+sudo pacman-key --populate trinity
 sudo pacman -Syy
