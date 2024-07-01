@@ -200,7 +200,7 @@ typora
 packagekit-qt6
 flatpak
 fwupd
-paru
+#paru
 debugedit
 fakeroot
 base-devel
@@ -219,20 +219,20 @@ ctos-desktop-style
 #ctos-sddm-theme
 
 ##  LXqt install
-lxqt
-xdg-utils
-ttf-freefont
-libstatgrab
-libsysstat
-lm_sensors
-#network-manager-applet
-oxygen-icons
-pavucontrol-qt
-xscreensaver
-archlinux-wallpaper
+#lxqt
+#xdg-utils
+#ttf-freefont
+#libstatgrab
+#libsysstat
+#lm_sensors
+##network-manager-applet
+#oxygen-icons
+#pavucontrol-qt
+#xscreensaver
+#archlinux-wallpaper
 
 ##  Trinity DE
-tde-meta
+#tde-meta
 
 ##  QT stuff
 #qtcreator
